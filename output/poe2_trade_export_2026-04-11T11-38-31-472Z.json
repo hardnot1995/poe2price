@@ -1,0 +1,309 @@
+{
+  "exported_at": "2026-04-11T11:38:31.472Z",
+  "source_page": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal",
+  "settings": {
+    "itemDelayMs": 10000,
+    "batchSize": 3,
+    "batchPauseMs": 90000,
+    "firstRetryMs": 120000,
+    "secondRetryMs": 300000,
+    "thirdRetryMs": 900000,
+    "requestTimeoutMs": 45000
+  },
+  "checklist_count": 19,
+  "item_count": 19,
+  "rows": [
+    {
+      "id": "dueling_wand_spellslinger_20",
+      "type": "Dueling Wand",
+      "notes": "Grants Skill: Level 20 Spellslinger",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:36:20.640Z",
+      "price_text": "~b/o 4 mirror",
+      "seller": "天一#6926",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
+      "error": "",
+      "raw_listing": {
+        "id": "4d8f3cc2165b1542f4658f84d369a4c275088805af65e459d043ab47a72eedfc",
+        "account": "天一#6926",
+        "lastCharacterName": "",
+        "indexed": "2026-04-09T03:46:45Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 4,
+          "currency": "mirror"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Dueling Wand",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "stoic_sceptre_discipline_20",
+      "type": "Stoic Sceptre",
+      "notes": "Grants Skill: Level 20 Discipline",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:36:31.394Z",
+      "price_text": "~b/o 4675 divine",
+      "seller": "Conif#2444",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
+      "error": "",
+      "raw_listing": {
+        "id": "9660e3b597dae272d766948f253e16b8745bf6eb7dadb85f7a1a547dacc1377d",
+        "account": "Conif#2444",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T06:10:21Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 4675,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Stoic Sceptre",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sekhema_sandals",
+      "type": "Sekhema Sandals",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:36:42.268Z",
+      "price_text": "~b/o 2894 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
+      "error": "",
+      "raw_listing": {
+        "id": "5604b98f0705c1dd92a9313e798edf1a32c3ed007ff0a8ee4c21f78dae5ab220",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:54:47Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 2894,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sekhema Sandals",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "vile_robe",
+      "type": "Vile Robe",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "sandsworn_sandals",
+      "type": "Sandsworn Sandals",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "sirenscale_gloves",
+      "type": "Sirenscale Gloves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "dueling_wand_spellslinger_18",
+      "type": "Dueling Wand",
+      "notes": "Grants Skill: Level 18 Spellslinger",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "ancestral_tiara",
+      "type": "Ancestral Tiara",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "spiny_talisman",
+      "type": "Spiny Talisman",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "akoyan_spear_spear_throw",
+      "type": "Akoyan Spear",
+      "notes": "Grants Skill: Spear Throw",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "ruination_maul_explode_on_crit",
+      "type": "Ruination Maul",
+      "notes": "Causes Enemies to Explode on Critical kill",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "vaal_gloves",
+      "type": "Vaal Gloves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "tasalian_greaves",
+      "type": "Tasalian Greaves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "falconers_jacket_ms5",
+      "type": "Falconer’s Jacket",
+      "notes": "5% increased Movement Speed",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "soldier_cuirass",
+      "type": "Soldier Cuirass",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "sacred_maul",
+      "type": "Sacred Maul",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "sacred_focus",
+      "type": "Sacred Focus",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "cryptic_leggings",
+      "type": "Cryptic Leggings",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
+      "error": "",
+      "raw_listing": null
+    },
+    {
+      "id": "imperial_greathelm",
+      "type": "Imperial Greathelm",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
+      "status": "not_fetched",
+      "fetched_at": "",
+      "price_text": "",
+      "seller": "",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
+      "error": "",
+      "raw_listing": null
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PoE 2 Exceptional Items</title>
+  <style>
+    :root {
+      --bg: #0e1014;
+      --panel: #16191f;
+      --panel-2: #1d222b;
+      --header: #222833;
+      --grid: #3b4352;
+      --text: #eceff4;
+      --muted: #aeb6c2;
+      --accent: #ffd75a;
+      --green-1: #31c46c;
+      --green-2: #7fd99d;
+      --blue-1: #8aa7d8;
+      --blue-2: #c7d6ef;
+      --red-1: #e35b5b;
+      --red-2: #f1a2a2;
+      --grey: #93a0b3;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .wrap {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .hero {
+      background: linear-gradient(180deg, rgba(255,215,90,0.08), rgba(255,215,90,0.02));
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 20px;
+      padding: 24px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      line-height: 1.1;
+    }
+
+    .sub {
+      color: var(--muted);
+      margin: 0;
+      font-size: 15px;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px;
+      padding: 14px 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+    }
+
+    .label {
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 6px;
+    }
+
+    .value {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 16px 0 18px;
+    }
+
+    .search, .select {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px;
+      padding: 12px 14px;
+      font-size: 14px;
+    }
+
+    .search {
+      min-width: 280px;
+      flex: 1;
+    }
+
+    .table-wrap {
+      background: var(--panel);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 10px 28px rgba(0,0,0,0.22);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead {
+      background: var(--header);
+    }
+
+    th, td {
+      text-align: left;
+      padding: 13px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      vertical-align: top;
+      font-size: 14px;
+    }
+
+    th {
+      color: var(--accent);
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    tbody tr:nth-child(odd) {
+      background: rgba(255,255,255,0.02);
+    }
+
+    .muted { color: var(--muted); }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .nowrap { white-space: nowrap; }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 12px;
+      font-weight: 700;
+      border: 1px solid rgba(255,255,255,0.08);
+      white-space: nowrap;
+    }
+
+    .speed-fast { background: rgba(49,196,108,0.18); color: var(--green-1); }
+    .speed-medium { background: rgba(127,217,157,0.16); color: var(--green-2); }
+    .speed-slow { background: rgba(138,167,216,0.18); color: var(--blue-1); }
+    .speed-none { background: rgba(199,214,239,0.12); color: var(--blue-2); }
+    .speed-no_data { background: rgba(147,160,179,0.16); color: var(--grey); }
+
+    .delta-up { color: var(--green-1); font-weight: 700; }
+    .delta-down { color: var(--red-1); font-weight: 700; }
+    .delta-same { color: var(--grey); font-weight: 700; }
+    .delta-na { color: var(--grey); }
+
+    .footer {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 14px;
+    }
+
+    .error {
+      color: #ffb3b3;
+      background: rgba(227,91,91,0.08);
+      border: 1px solid rgba(227,91,91,0.25);
+      border-radius: 14px;
+      padding: 14px;
+      margin-top: 12px;
+    }
+
+    @media (max-width: 980px) {
+      .desktop-only { display: none; }
+      th, td { padding: 11px 10px; font-size: 13px; }
+      .wrap { padding: 14px; }
+      h1 { font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>PoE 2 Exceptional Items</h1>
+      <p class="sub">Live trade snapshot from your exported JSON. Built to work on GitHub Pages with a single <span class="mono">latest.json</span> file.</p>
+      <div class="meta">
+        <div class="card">
+          <div class="label">Last updated</div>
+          <div class="value" id="lastUpdated">—</div>
+        </div>
+        <div class="card">
+          <div class="label">Items</div>
+          <div class="value" id="itemCount">—</div>
+        </div>
+        <div class="card">
+          <div class="label">Snapshot dates tracked</div>
+          <div class="value" id="snapshotCount">—</div>
+        </div>
+        <div class="card">
+          <div class="label">Source</div>
+          <div class="value" id="sourcePage">—</div>
+        </div>
+      </div>
+    </section>
+
+    <div class="toolbar">
+      <input id="searchInput" class="search" placeholder="Search type or notes" />
+      <select id="speedFilter" class="select">
+        <option value="all">All speeds</option>
+        <option value="fast">Fast</option>
+        <option value="medium">Medium</option>
+        <option value="slow">Slow</option>
+        <option value="none">None</option>
+        <option value="no_data">No data</option>
+      </select>
+      <select id="statusFilter" class="select">
+        <option value="all">All statuses</option>
+        <option value="ok">OK</option>
+        <option value="no_results">No results</option>
+        <option value="not_fetched">Not fetched</option>
+      </select>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Price</th>
+            <th>Δ</th>
+            <th>Speed</th>
+            <th class="desktop-only">Seller</th>
+            <th class="desktop-only">Results</th>
+            <th class="desktop-only">Fetched</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+
+    <div id="errorBox"></div>
+    <div class="footer">Tip: publish this page with <span class="mono">index.html</span> and place your latest exporter output at <span class="mono">latest.json</span> in the same folder.</div>
+  </div>
+
+  <script>
+    const state = {
+      data: null,
+      previous: new Map(),
+    };
+
+    function fmtDate(value) {
+      if (!value) return '—';
+      const d = new Date(value);
+      if (Number.isNaN(d.getTime())) return value;
+      return d.toLocaleString();
+    }
+
+    function escapeHtml(str) {
+      return String(str ?? '').replace(/[&<>"']/g, ch => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[ch]));
+    }
+
+    function parsePrice(priceText) {
+      if (!priceText) return null;
+      const m = String(priceText).match(/([0-9]+(?:\.[0-9]+)?)\s+(mirror|mirrors|divine|divines)/i);
+      if (!m) return null;
+      return {
+        amount: Number(m[1]),
+        currency: m[2].toLowerCase()
+      };
+    }
+
+    function computeDelta(row) {
+      const previousHistory = Array.isArray(row.snapshot_dates) ? row.snapshot_dates : [];
+      const previousTop = row.top_listings || [];
+      const price = parsePrice(row.price_text);
+
+      if (!row.raw_listing?.price || !price) {
+        return { label: 'n/a', cls: 'delta-na' };
+      }
+
+      // Prefer previous snapshot in history when available
+      if (!row.history_used?.latest_previous || !Array.isArray(row.snapshot_dates) || row.snapshot_dates.length < 2) {
+        return { label: 'n/a', cls: 'delta-na' };
+      }
+
+      // GitHub page only gets current export, so use top_listings history if present in future richer exports.
+      // For now, if there is no previous numeric baseline in the export, show n/a.
+      return { label: 'n/a', cls: 'delta-na' };
+    }
+
+    function speedClass(speed) {
+      return `speed-${speed || 'no_data'}`;
+    }
+
+    function renderTable() {
+      const body = document.getElementById('tableBody');
+      const search = document.getElementById('searchInput').value.trim().toLowerCase();
+      const speedFilter = document.getElementById('speedFilter').value;
+      const statusFilter = document.getElementById('statusFilter').value;
+
+      let rows = [...(state.data?.rows || [])];
+
+      rows = rows.filter(row => {
+        const hay = `${row.type || ''} ${row.notes || ''}`.toLowerCase();
+        const searchOk = !search || hay.includes(search);
+        const speedOk = speedFilter === 'all' || (row.sell_speed || 'no_data') === speedFilter;
+        const statusOk = statusFilter === 'all' || (row.status || 'not_fetched') === statusFilter;
+        return searchOk && speedOk && statusOk;
+      });
+
+      rows.sort((a, b) => {
+        const pa = parsePrice(a.price_text);
+        const pb = parsePrice(b.price_text);
+        if (pa && pb) {
+          if (pa.currency !== pb.currency) {
+            if (pa.currency.startsWith('mirror')) return -1;
+            if (pb.currency.startsWith('mirror')) return 1;
+          }
+          return (pb.amount || 0) - (pa.amount || 0);
+        }
+        return String(a.type || '').localeCompare(String(b.type || ''));
+      });
+
+      body.innerHTML = rows.map(row => {
+        const delta = computeDelta(row);
+        const seller = row.seller || '—';
+        const speed = row.sell_speed || 'no_data';
+        const resultCount = row.result_count ?? '—';
+        const fetched = fmtDate(row.fetched_at);
+        const notes = row.notes || '—';
+        return `
+          <tr>
+            <td>${escapeHtml(row.type || '—')}</td>
+            <td class="nowrap">${escapeHtml(row.price_text || '—')}</td>
+            <td class="nowrap ${delta.cls}">${escapeHtml(delta.label)}</td>
+            <td><span class="pill ${speedClass(speed)}">${escapeHtml(speed.replace('_', ' '))}</span></td>
+            <td class="desktop-only">${escapeHtml(seller)}</td>
+            <td class="desktop-only">${escapeHtml(resultCount)}</td>
+            <td class="desktop-only">${escapeHtml(fetched)}</td>
+            <td>${escapeHtml(notes)}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function setMeta(data) {
+      document.getElementById('lastUpdated').textContent = fmtDate(data.exported_at);
+      document.getElementById('itemCount').textContent = String(data.item_count ?? data.rows?.length ?? 0);
+      document.getElementById('snapshotCount').textContent = String((data.snapshot_dates_seen || []).length);
+      document.getElementById('sourcePage').textContent = data.source_page ? 'Trade export' : '—';
+    }
+
+    function setError(message) {
+      document.getElementById('errorBox').innerHTML = `<div class="error">${escapeHtml(message)}</div>`;
+    }
+
+    async function loadData() {
+      try {
+        const res = await fetch('./latest.json', { cache: 'no-store' });
+        if (!res.ok) throw new Error(`Could not load latest.json (${res.status})`);
+        const data = await res.json();
+        state.data = data;
+        setMeta(data);
+        renderTable();
+      } catch (err) {
+        setError(err instanceof Error ? err.message : String(err));
+      }
+    }
+
+    document.getElementById('searchInput').addEventListener('input', renderTable);
+    document.getElementById('speedFilter').addEventListener('change', renderTable);
+    document.getElementById('statusFilter').addEventListener('change', renderTable);
+
+    loadData();
+  </script>
+</body>
+</html>

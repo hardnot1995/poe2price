@@ -1,0 +1,549 @@
+{
+  "exported_at": "2026-04-11T11:51:30.474Z",
+  "source_page": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal",
+  "settings": {
+    "itemDelayMs": 10000,
+    "batchSize": 3,
+    "batchPauseMs": 90000,
+    "firstRetryMs": 120000,
+    "secondRetryMs": 300000,
+    "thirdRetryMs": 900000,
+    "requestTimeoutMs": 45000
+  },
+  "checklist_count": 19,
+  "item_count": 19,
+  "rows": [
+    {
+      "id": "dueling_wand_spellslinger_20",
+      "type": "Dueling Wand",
+      "notes": "Grants Skill: Level 20 Spellslinger",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:40:12.971Z",
+      "price_text": "~b/o 4 mirror",
+      "seller": "smit38#3712",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
+      "error": "",
+      "raw_listing": {
+        "id": "dc17ef37b6903599f12c16e802dc50a5eda7aa5a30973754dd294d21088f151f",
+        "account": "smit38#3712",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T05:51:44Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 4,
+          "currency": "mirror"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Dueling Wand",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "stoic_sceptre_discipline_20",
+      "type": "Stoic Sceptre",
+      "notes": "Grants Skill: Level 20 Discipline",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:40:23.686Z",
+      "price_text": "~b/o 4675 divine",
+      "seller": "Conif#2444",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
+      "error": "",
+      "raw_listing": {
+        "id": "9660e3b597dae272d766948f253e16b8745bf6eb7dadb85f7a1a547dacc1377d",
+        "account": "Conif#2444",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T06:10:21Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 4675,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Stoic Sceptre",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sekhema_sandals",
+      "type": "Sekhema Sandals",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:40:34.433Z",
+      "price_text": "~b/o 2894 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
+      "error": "",
+      "raw_listing": {
+        "id": "5604b98f0705c1dd92a9313e798edf1a32c3ed007ff0a8ee4c21f78dae5ab220",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:54:47Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 2894,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sekhema Sandals",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "vile_robe",
+      "type": "Vile Robe",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:42:05.234Z",
+      "price_text": "~b/o 744 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
+      "error": "",
+      "raw_listing": {
+        "id": "60872fff1ad34e22845a45912570daae3439dd186642d449a37d82adde75b5d7",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:54:47Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 744,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Vile Robe",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sandsworn_sandals",
+      "type": "Sandsworn Sandals",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:42:16.034Z",
+      "price_text": "~b/o 419 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
+      "error": "",
+      "raw_listing": {
+        "id": "d6db68dc6c63f16e3b16a89e05b0f0bffa365f8eb5e8f8eb72cc135668b3753b",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:54:47Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 419,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sandsworn Sandals",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sirenscale_gloves",
+      "type": "Sirenscale Gloves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:42:26.814Z",
+      "price_text": "~b/o 448 divine",
+      "seller": "Kogo#6560",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
+      "error": "",
+      "raw_listing": {
+        "id": "2aa7e97b256bb65bce38abb089b543679f12149c489255724d55c71d83161e99",
+        "account": "Kogo#6560",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T07:48:53Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 448,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sirenscale Gloves",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "dueling_wand_spellslinger_18",
+      "type": "Dueling Wand",
+      "notes": "Grants Skill: Level 18 Spellslinger",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:43:57.602Z",
+      "price_text": "~b/o 399 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
+      "error": "",
+      "raw_listing": {
+        "id": "6137686145c91c72b7feb346464919f452d364c6ed3b5864b71d02ae4a97c480",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:54:47Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 399,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Dueling Wand",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "ancestral_tiara",
+      "type": "Ancestral Tiara",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:44:08.473Z",
+      "price_text": "~b/o 296 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
+      "error": "",
+      "raw_listing": {
+        "id": "dfb89f5bb4252a24b02705b24d7247abc738eaac100f027c7e29453e23e78a61",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T06:55:37Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 296,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Ancestral Tiara",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "spiny_talisman",
+      "type": "Spiny Talisman",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:44:19.308Z",
+      "price_text": "~b/o 131 divine",
+      "seller": "urinamu#2811",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
+      "error": "",
+      "raw_listing": {
+        "id": "55feaebc4f339b64e597e6a6f425fa89b6999896394c8e7f1e8f4df79f6d55f6",
+        "account": "urinamu#2811",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T05:10:26Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 131,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Spiny Talisman",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "akoyan_spear_spear_throw",
+      "type": "Akoyan Spear",
+      "notes": "Grants Skill: Spear Throw",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:45:50.092Z",
+      "price_text": "~b/o 125 divine",
+      "seller": "Taiproqn0990#8632",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
+      "error": "",
+      "raw_listing": {
+        "id": "2f0039ad3f9f8a71c9a1eaa50b06b373858f23c1939737b3ef69137034afd016",
+        "account": "Taiproqn0990#8632",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:16:01Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 125,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Akoyan Spear",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "ruination_maul_explode_on_crit",
+      "type": "Ruination Maul",
+      "notes": "Causes Enemies to Explode on Critical kill",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:46:00.860Z",
+      "price_text": "~b/o 124 divine",
+      "seller": "보호한다#8183",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
+      "error": "",
+      "raw_listing": {
+        "id": "114926281c0ba64055bdee882df62b1d9237d0e5d51cd56f31d3ab60931a61e7",
+        "account": "보호한다#8183",
+        "lastCharacterName": "",
+        "indexed": "2026-04-09T05:07:13Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 124,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Ruination Maul",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "vaal_gloves",
+      "type": "Vaal Gloves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:46:11.725Z",
+      "price_text": "~b/o 100 divine",
+      "seller": "Taiproqn0990#8632",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
+      "error": "",
+      "raw_listing": {
+        "id": "287770f91782b32812ef6cc15aef83cf4b1f71c0afd46609677b4eece6fc1000",
+        "account": "Taiproqn0990#8632",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T08:37:58Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 100,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Vaal Gloves",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "tasalian_greaves",
+      "type": "Tasalian Greaves",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:47:42.496Z",
+      "price_text": "~b/o 80 divine",
+      "seller": "Taiproqn0990#8632",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
+      "error": "",
+      "raw_listing": {
+        "id": "251731d209200f60683d9032f0e3e5f37068501a7e94edf3b12f05d031ad39b5",
+        "account": "Taiproqn0990#8632",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T10:23:32Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 80,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Tasalian Greaves",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "falconers_jacket_ms5",
+      "type": "Falconer’s Jacket",
+      "notes": "5% increased Movement Speed",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:47:53.484Z",
+      "price_text": "~b/o 93 divine",
+      "seller": "phunghuuhien1990#6964",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
+      "error": "",
+      "raw_listing": {
+        "id": "e63efdeaa145b64cb034c98199487cb2900085a86e2a82d245dcef36cba3a7fb",
+        "account": "phunghuuhien1990#6964",
+        "lastCharacterName": "",
+        "indexed": "2026-04-10T08:02:18Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 93,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Falconer's Jacket",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "soldier_cuirass",
+      "type": "Soldier Cuirass",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:48:04.267Z",
+      "price_text": "~b/o 78 divine",
+      "seller": "1993duongducnamson#8288",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
+      "error": "",
+      "raw_listing": {
+        "id": "17c52dc1b27b2188d88b4010d35c734aca3816fa465031ce802677ca74fc1a48",
+        "account": "1993duongducnamson#8288",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T06:55:37Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 78,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Soldier Cuirass",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sacred_maul",
+      "type": "Sacred Maul",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:49:35.100Z",
+      "price_text": "~b/o 58 divine",
+      "seller": "urinamu#2811",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
+      "error": "",
+      "raw_listing": {
+        "id": "1828ecc7d252ef6dcadc7f4a60469dcd02c3d1b733d8f4a2d0a12fa6ae691296",
+        "account": "urinamu#2811",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T11:15:58Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 58,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sacred Maul",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "sacred_focus",
+      "type": "Sacred Focus",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:49:45.874Z",
+      "price_text": "~b/o 45 divine",
+      "seller": "jlnn#3630",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
+      "error": "",
+      "raw_listing": {
+        "id": "8988447da000c6e81603073e5735adaf7a0b503c13b0787a38a7409924a0d5ef",
+        "account": "jlnn#3630",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T11:25:09Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 45,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Sacred Focus",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "cryptic_leggings",
+      "type": "Cryptic Leggings",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:49:56.700Z",
+      "price_text": "~b/o 36 divine",
+      "seller": "테이크홉#7552",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
+      "error": "",
+      "raw_listing": {
+        "id": "d0ca7a0f3565c47cd9936acb7cc3051d8c774b52aaa238307d3034e7e56b78c5",
+        "account": "테이크홉#7552",
+        "lastCharacterName": "",
+        "indexed": "2026-04-10T04:41:38Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 36,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Cryptic Leggings",
+          "name": ""
+        }
+      }
+    },
+    {
+      "id": "imperial_greathelm",
+      "type": "Imperial Greathelm",
+      "notes": "",
+      "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
+      "status": "ok",
+      "fetched_at": "2026-04-11T11:51:27.520Z",
+      "price_text": "~b/o 35 divine",
+      "seller": "Cube#4023",
+      "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
+      "error": "",
+      "raw_listing": {
+        "id": "8de61bceb567869233daa8c9f600ddaf086fce0c51720499132cf8aaafc7c83f",
+        "account": "Cube#4023",
+        "lastCharacterName": "",
+        "indexed": "2026-04-11T02:29:48Z",
+        "price": {
+          "type": "~b/o",
+          "amount": 35,
+          "currency": "divine"
+        },
+        "item": {
+          "ilvl": 82,
+          "typeLine": "Exceptional Imperial Greathelm",
+          "name": ""
+        }
+      }
+    }
+  ]
+}
