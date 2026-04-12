@@ -2,7 +2,6 @@ from pathlib import Path
 import shutil
 import time
 import subprocess
-import sys
 
 DOWNLOADS = Path(r"D:\DownloadsF2")
 REPO_ROOT = Path(r"D:\Projects\poe2price")
@@ -10,18 +9,17 @@ REPO_LATEST = REPO_ROOT / "docs" / "latest.json"
 
 PATTERN = "poe2_trade_export_*.json"
 WAIT_SECONDS = 2
-GIT_BRANCH = "main"  # change if your branch is master or something else
+GIT_BRANCH = "main"
 
 
 def run(cmd, cwd=None):
-    result = subprocess.run(
+    return subprocess.run(
         cmd,
         cwd=cwd,
         capture_output=True,
         text=True,
         shell=False,
     )
-    return result
 
 
 def find_latest_export(downloads: Path):
@@ -34,7 +32,6 @@ def find_latest_export(downloads: Path):
 
 
 def git_publish():
-    # Check repo status for just the target file
     status = run(
         ["git", "status", "--porcelain", "--", "docs/latest.json"],
         cwd=REPO_ROOT
@@ -79,8 +76,8 @@ def main():
 
     latest = find_latest_export(DOWNLOADS)
     if latest is None:
-      print("No export files found in Downloads.")
-      return 0
+        print("No export files found in Downloads.")
+        return 0
 
     time.sleep(WAIT_SECONDS)
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -23,7 +24,10 @@
       --grey: #93a0b3;
     }
 
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       background: var(--bg);
@@ -38,8 +42,8 @@
     }
 
     .hero {
-      background: linear-gradient(180deg, rgba(255,215,90,0.08), rgba(255,215,90,0.02));
-      border: 1px solid rgba(255,255,255,0.08);
+      background: linear-gradient(180deg, rgba(255, 215, 90, 0.08), rgba(255, 215, 90, 0.02));
+      border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: 20px;
       padding: 24px;
       margin-bottom: 20px;
@@ -66,10 +70,10 @@
 
     .card {
       background: var(--panel);
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(255, 255, 255, 0.06);
       border-radius: 16px;
       padding: 14px 16px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
     }
 
     .label {
@@ -92,10 +96,11 @@
       margin: 16px 0 18px;
     }
 
-    .search, .select {
+    .search,
+    .select {
       background: var(--panel);
       color: var(--text);
-      border: 1px solid rgba(255,255,255,0.08);
+      border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: 14px;
       padding: 12px 14px;
       font-size: 14px;
@@ -108,10 +113,10 @@
 
     .table-wrap {
       background: var(--panel);
-      border: 1px solid rgba(255,255,255,0.06);
+      border: 1px solid rgba(255, 255, 255, 0.06);
       border-radius: 20px;
       overflow: hidden;
-      box-shadow: 0 10px 28px rgba(0,0,0,0.22);
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.22);
     }
 
     table {
@@ -123,10 +128,11 @@
       background: var(--header);
     }
 
-    th, td {
+    th,
+    td {
       text-align: left;
       padding: 13px 14px;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
       vertical-align: top;
       font-size: 14px;
     }
@@ -139,12 +145,20 @@
     }
 
     tbody tr:nth-child(odd) {
-      background: rgba(255,255,255,0.02);
+      background: rgba(255, 255, 255, 0.02);
     }
 
-    .muted { color: var(--muted); }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-    .nowrap { white-space: nowrap; }
+    .muted {
+      color: var(--muted);
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    .nowrap {
+      white-space: nowrap;
+    }
 
     .pill {
       display: inline-flex;
@@ -153,20 +167,53 @@
       padding: 5px 9px;
       font-size: 12px;
       font-weight: 700;
-      border: 1px solid rgba(255,255,255,0.08);
+      border: 1px solid rgba(255, 255, 255, 0.08);
       white-space: nowrap;
     }
 
-    .speed-fast { background: rgba(49,196,108,0.18); color: var(--green-1); }
-    .speed-medium { background: rgba(127,217,157,0.16); color: var(--green-2); }
-    .speed-slow { background: rgba(138,167,216,0.18); color: var(--blue-1); }
-    .speed-none { background: rgba(199,214,239,0.12); color: var(--blue-2); }
-    .speed-no_data { background: rgba(147,160,179,0.16); color: var(--grey); }
+    .speed-fast {
+      background: rgba(49, 196, 108, 0.18);
+      color: var(--green-1);
+    }
 
-    .delta-up { color: var(--green-1); font-weight: 700; }
-    .delta-down { color: var(--red-1); font-weight: 700; }
-    .delta-same { color: var(--grey); font-weight: 700; }
-    .delta-na { color: var(--grey); }
+    .speed-medium {
+      background: rgba(127, 217, 157, 0.16);
+      color: var(--green-2);
+    }
+
+    .speed-slow {
+      background: rgba(138, 167, 216, 0.18);
+      color: var(--blue-1);
+    }
+
+    .speed-none {
+      background: rgba(199, 214, 239, 0.12);
+      color: var(--blue-2);
+    }
+
+    .speed-no_data {
+      background: rgba(147, 160, 179, 0.16);
+      color: var(--grey);
+    }
+
+    .delta-up {
+      color: var(--green-1);
+      font-weight: 700;
+    }
+
+    .delta-down {
+      color: var(--red-1);
+      font-weight: 700;
+    }
+
+    .delta-same {
+      color: var(--grey);
+      font-weight: 700;
+    }
+
+    .delta-na {
+      color: var(--grey);
+    }
 
     .footer {
       color: var(--muted);
@@ -176,26 +223,41 @@
 
     .error {
       color: #ffb3b3;
-      background: rgba(227,91,91,0.08);
-      border: 1px solid rgba(227,91,91,0.25);
+      background: rgba(227, 91, 91, 0.08);
+      border: 1px solid rgba(227, 91, 91, 0.25);
       border-radius: 14px;
       padding: 14px;
       margin-top: 12px;
     }
 
     @media (max-width: 980px) {
-      .desktop-only { display: none; }
-      th, td { padding: 11px 10px; font-size: 13px; }
-      .wrap { padding: 14px; }
-      h1 { font-size: 24px; }
+      .desktop-only {
+        display: none;
+      }
+
+      th,
+      td {
+        padding: 11px 10px;
+        font-size: 13px;
+      }
+
+      .wrap {
+        padding: 14px;
+      }
+
+      h1 {
+        font-size: 24px;
+      }
     }
   </style>
 </head>
+
 <body>
   <div class="wrap">
     <section class="hero">
       <h1>PoE 2 Exceptional Items</h1>
-      <p class="sub">Live trade snapshot from your exported JSON. Built to work on GitHub Pages with a single <span class="mono">latest.json</span> file.</p>
+      <p class="sub">Live trade snapshot from your exported JSON. Built to work on GitHub Pages with a single <span
+          class="mono">latest.json</span> file.</p>
       <div class="meta">
         <div class="card">
           <div class="label">Last updated</div>
@@ -284,27 +346,46 @@
       if (!m) return null;
       return {
         amount: Number(m[1]),
-        currency: m[2].toLowerCase()
+        currency: m[2].toLowerCase().replace(/s$/, '')
       };
     }
 
     function computeDelta(row) {
-      const previousHistory = Array.isArray(row.snapshot_dates) ? row.snapshot_dates : [];
-      const previousTop = row.top_listings || [];
-      const price = parsePrice(row.price_text);
+      const current = parsePrice(row.price_text);
+      const history = Array.isArray(row.history) ? row.history : [];
 
-      if (!row.raw_listing?.price || !price) {
+      if (!current || history.length < 2) {
         return { label: 'n/a', cls: 'delta-na' };
       }
 
-      // Prefer previous snapshot in history when available
-      if (!row.history_used?.latest_previous || !Array.isArray(row.snapshot_dates) || row.snapshot_dates.length < 2) {
+      const sorted = [...history]
+        .filter(x => x && x.fetched_at)
+        .sort((a, b) => new Date(a.fetched_at).getTime() - new Date(b.fetched_at).getTime());
+
+      if (sorted.length < 2) {
         return { label: 'n/a', cls: 'delta-na' };
       }
 
-      // GitHub page only gets current export, so use top_listings history if present in future richer exports.
-      // For now, if there is no previous numeric baseline in the export, show n/a.
-      return { label: 'n/a', cls: 'delta-na' };
+      const previousSnapshot = sorted[sorted.length - 2];
+      const previous = parsePrice(previousSnapshot.price_text);
+
+      if (!previous) {
+        return { label: 'n/a', cls: 'delta-na' };
+      }
+
+      if (previous.currency !== current.currency) {
+        return { label: 'n/a', cls: 'delta-na' };
+      }
+
+      const diff = current.amount - previous.amount;
+
+      if (diff > 0) {
+        return { label: `+${diff}`, cls: 'delta-up' };
+      }
+      if (diff < 0) {
+        return { label: `${diff}`, cls: 'delta-down' };
+      }
+      return { label: 'same', cls: 'delta-same' };
     }
 
     function speedClass(speed) {
@@ -393,4 +474,5 @@
     loadData();
   </script>
 </body>
+
 </html>
