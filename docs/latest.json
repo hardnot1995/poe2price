@@ -1,7 +1,7 @@
 {
-  "exported_at": "2026-04-17T01:23:41.100Z",
-  "run_started_at": "2026-04-17T01:12:26.486Z",
-  "run_finished_at": "2026-04-17T01:23:41.091Z",
+  "exported_at": "2026-04-17T05:23:48.186Z",
+  "run_started_at": "2026-04-17T05:12:30.844Z",
+  "run_finished_at": "2026-04-17T05:23:48.175Z",
   "source_page": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal",
   "settings": {
     "itemDelayMs": 10000,
@@ -53,7 +53,8 @@
     "2026-04-16T13:23:38.107Z",
     "2026-04-16T17:23:38.518Z",
     "2026-04-16T21:23:39.987Z",
-    "2026-04-17T01:23:41.091Z"
+    "2026-04-17T01:23:41.091Z",
+    "2026-04-17T05:23:48.175Z"
   ],
   "snapshot_dates_seen": [
     "2026-04-15T09:02:00.336Z",
@@ -264,7 +265,26 @@
     "2026-04-17T01:21:48.629Z",
     "2026-04-17T01:21:59.377Z",
     "2026-04-17T01:22:10.157Z",
-    "2026-04-17T01:23:41.077Z"
+    "2026-04-17T01:23:41.077Z",
+    "2026-04-17T05:12:31.735Z",
+    "2026-04-17T05:12:42.472Z",
+    "2026-04-17T05:12:53.201Z",
+    "2026-04-17T05:14:23.953Z",
+    "2026-04-17T05:14:34.668Z",
+    "2026-04-17T05:14:45.416Z",
+    "2026-04-17T05:16:16.164Z",
+    "2026-04-17T05:16:26.908Z",
+    "2026-04-17T05:16:37.678Z",
+    "2026-04-17T05:18:08.459Z",
+    "2026-04-17T05:18:21.792Z",
+    "2026-04-17T05:18:32.553Z",
+    "2026-04-17T05:20:03.690Z",
+    "2026-04-17T05:20:14.444Z",
+    "2026-04-17T05:20:25.211Z",
+    "2026-04-17T05:21:55.963Z",
+    "2026-04-17T05:22:06.704Z",
+    "2026-04-17T05:22:17.433Z",
+    "2026-04-17T05:23:48.160Z"
   ],
   "rows": [
     {
@@ -273,7 +293,7 @@
       "notes": "Grants Skill: Level 20 Spellslinger",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:12:27.347Z",
+      "fetched_at": "2026-04-17T05:12:31.735Z",
       "price_text": "~b/o 5 mirror",
       "seller": "long191120#7960",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/3qnKn7kgF5",
@@ -291,13 +311,14 @@
         "2026-04-16T13:12:23.707Z",
         "2026-04-16T17:12:24.792Z",
         "2026-04-16T21:12:25.523Z",
-        "2026-04-17T01:12:27.347Z"
+        "2026-04-17T01:12:27.347Z",
+        "2026-04-17T05:12:31.735Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:12:25.523Z",
-        "anchor_6h": "2026-04-16T21:12:25.523Z",
-        "anchor_12h": "2026-04-16T13:12:23.707Z",
-        "anchor_24h": "2026-04-16T01:12:13.576Z",
+        "latest_previous": "2026-04-17T01:12:27.347Z",
+        "anchor_6h": "2026-04-17T01:12:27.347Z",
+        "anchor_12h": "2026-04-16T17:12:24.792Z",
+        "anchor_24h": "2026-04-16T05:12:19.172Z",
         "anchor_48h": "2026-04-15T09:02:00.336Z"
       },
       "history": [
@@ -623,6 +644,47 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:12:31.735Z",
+          "result_count": 2,
+          "price_text": "~b/o 5 mirror",
+          "seller": "long191120#7960",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "3543da78025b2ba0a89ab04a48aec0a624faac86d26c2e4fc9085466c8878ce6",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:24:04Z",
+              "age_minutes": 288,
+              "price": {
+                "type": "~b/o",
+                "amount": 5,
+                "currency": "mirror"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e88098318c5fc6960d3af45dbbcdf3124816095b957f0153a2a4ffebe5bf1092",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T15:19:09Z",
+              "age_minutes": 833,
+              "price": {
+                "type": "~b/o",
+                "amount": 6,
+                "currency": "mirror"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
@@ -630,7 +692,7 @@
           "listing_id": "3543da78025b2ba0a89ab04a48aec0a624faac86d26c2e4fc9085466c8878ce6",
           "seller": "long191120#7960",
           "indexed": "2026-04-17T00:24:04Z",
-          "age_minutes": 48,
+          "age_minutes": 288,
           "price": {
             "type": "~b/o",
             "amount": 5,
@@ -646,7 +708,7 @@
           "listing_id": "e88098318c5fc6960d3af45dbbcdf3124816095b957f0153a2a4ffebe5bf1092",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-16T15:19:09Z",
-          "age_minutes": 593,
+          "age_minutes": 833,
           "price": {
             "type": "~b/o",
             "amount": 6,
@@ -682,9 +744,9 @@
       "notes": "Grants Skill: Level 20 Discipline",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:12:38.168Z",
-      "price_text": "~b/o 4399 divine",
-      "seller": "Kogo#6560",
+      "fetched_at": "2026-04-17T05:12:42.472Z",
+      "price_text": "~b/o 4200 divine",
+      "seller": "Longmirdrop#5046",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/6zp4Po6XIG",
       "error": "",
       "result_count": 8,
@@ -700,13 +762,14 @@
         "2026-04-16T13:12:34.491Z",
         "2026-04-16T17:12:35.531Z",
         "2026-04-16T21:12:36.311Z",
-        "2026-04-17T01:12:38.168Z"
+        "2026-04-17T01:12:38.168Z",
+        "2026-04-17T05:12:42.472Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:12:36.311Z",
-        "anchor_6h": "2026-04-16T21:12:36.311Z",
-        "anchor_12h": "2026-04-16T13:12:34.491Z",
-        "anchor_24h": "2026-04-16T01:12:24.359Z",
+        "latest_previous": "2026-04-17T01:12:38.168Z",
+        "anchor_6h": "2026-04-17T01:12:38.168Z",
+        "anchor_12h": "2026-04-16T17:12:35.531Z",
+        "anchor_24h": "2026-04-16T05:12:29.922Z",
         "anchor_48h": "2026-04-15T09:02:11.278Z"
       },
       "history": [
@@ -1688,14 +1751,135 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:12:42.472Z",
+          "result_count": 8,
+          "price_text": "~b/o 4200 divine",
+          "seller": "Longmirdrop#5046",
+          "sell_speed": "slow",
+          "top_listings": [
+            {
+              "listing_id": "eb29601c9f991ffe7c216aa7e7f7e5ef3aca3891e9b7e9c6f5552e4fe1dbae15",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-17T01:42:40Z",
+              "age_minutes": 210,
+              "price": {
+                "type": "~b/o",
+                "amount": 4200,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Stoic Sceptre",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "0ad8c6ef2299595382e5df66f6d431291103afedfaa197b15ed8ae173174078a",
+              "seller": "hcrip#0464",
+              "indexed": "2026-04-17T01:24:46Z",
+              "age_minutes": 228,
+              "price": {
+                "type": "~b/o",
+                "amount": 4250,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Stoic Sceptre",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "c44ca233a71da2017bb6841badefcf0458c87c36c4b9143425757ff6dd39216b",
+              "seller": "Kogo#6560",
+              "indexed": "2026-04-16T02:41:34Z",
+              "age_minutes": 1591,
+              "price": {
+                "type": "~b/o",
+                "amount": 4399,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 83,
+                "typeLine": "Exceptional Stoic Sceptre",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "b8cfe4d0ed2aa0d53ea8bb4ccdbf5415637f4a14352f8ed99416fd703bf91388",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:24:04Z",
+              "age_minutes": 289,
+              "price": {
+                "type": "~b/o",
+                "amount": 4400,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 83,
+                "typeLine": "Exceptional Stoic Sceptre",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "fd206a6751ea0fe2150fe6fdb3cf595553dfe3d889f42b8c3c2b546f3082e56f",
+              "seller": "LiangWei31#2668",
+              "indexed": "2026-02-11T18:42:14Z",
+              "age_minutes": 92790,
+              "price": {
+                "type": "~b/o",
+                "amount": 1,
+                "currency": "mirror"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Stoic Sceptre",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "eb29601c9f991ffe7c216aa7e7f7e5ef3aca3891e9b7e9c6f5552e4fe1dbae15",
+          "seller": "Longmirdrop#5046",
+          "indexed": "2026-04-17T01:42:40Z",
+          "age_minutes": 210,
+          "price": {
+            "type": "~b/o",
+            "amount": 4200,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Stoic Sceptre",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "0ad8c6ef2299595382e5df66f6d431291103afedfaa197b15ed8ae173174078a",
+          "seller": "hcrip#0464",
+          "indexed": "2026-04-17T01:24:46Z",
+          "age_minutes": 228,
+          "price": {
+            "type": "~b/o",
+            "amount": 4250,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Stoic Sceptre",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "c44ca233a71da2017bb6841badefcf0458c87c36c4b9143425757ff6dd39216b",
           "seller": "Kogo#6560",
           "indexed": "2026-04-16T02:41:34Z",
-          "age_minutes": 1351,
+          "age_minutes": 1591,
           "price": {
             "type": "~b/o",
             "amount": 4399,
@@ -1708,42 +1892,10 @@
           }
         },
         {
-          "listing_id": "eb29601c9f991ffe7c216aa7e7f7e5ef3aca3891e9b7e9c6f5552e4fe1dbae15",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-16T00:41:31Z",
-          "age_minutes": 1471,
-          "price": {
-            "type": "~b/o",
-            "amount": 4400,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Stoic Sceptre",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "0ad8c6ef2299595382e5df66f6d431291103afedfaa197b15ed8ae173174078a",
-          "seller": "hcrip#0464",
-          "indexed": "2026-04-16T02:29:58Z",
-          "age_minutes": 1363,
-          "price": {
-            "type": "~b/o",
-            "amount": 4400,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Stoic Sceptre",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "b8cfe4d0ed2aa0d53ea8bb4ccdbf5415637f4a14352f8ed99416fd703bf91388",
           "seller": "long191120#7960",
           "indexed": "2026-04-17T00:24:04Z",
-          "age_minutes": 49,
+          "age_minutes": 289,
           "price": {
             "type": "~b/o",
             "amount": 4400,
@@ -1759,7 +1911,7 @@
           "listing_id": "fd206a6751ea0fe2150fe6fdb3cf595553dfe3d889f42b8c3c2b546f3082e56f",
           "seller": "LiangWei31#2668",
           "indexed": "2026-02-11T18:42:14Z",
-          "age_minutes": 92550,
+          "age_minutes": 92790,
           "price": {
             "type": "~b/o",
             "amount": 1,
@@ -1773,17 +1925,17 @@
         }
       ],
       "raw_listing": {
-        "id": "c44ca233a71da2017bb6841badefcf0458c87c36c4b9143425757ff6dd39216b",
-        "account": "Kogo#6560",
+        "id": "eb29601c9f991ffe7c216aa7e7f7e5ef3aca3891e9b7e9c6f5552e4fe1dbae15",
+        "account": "Longmirdrop#5046",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T02:41:34Z",
+        "indexed": "2026-04-17T01:42:40Z",
         "price": {
           "type": "~b/o",
-          "amount": 4399,
+          "amount": 4200,
           "currency": "divine"
         },
         "item": {
-          "ilvl": 83,
+          "ilvl": 82,
           "typeLine": "Exceptional Stoic Sceptre",
           "name": ""
         }
@@ -1795,13 +1947,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:12:48.924Z",
-      "price_text": "~b/o 2385 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:12:53.201Z",
+      "price_text": "~b/o 2300 divine",
+      "seller": "siuuyo#8944",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5wnGs7",
       "error": "",
-      "result_count": 29,
-      "sell_speed": "medium",
+      "result_count": 35,
+      "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:02:22.048Z",
         "2026-04-15T13:12:21.170Z",
@@ -1813,13 +1965,14 @@
         "2026-04-16T13:12:45.261Z",
         "2026-04-16T17:12:46.253Z",
         "2026-04-16T21:12:47.124Z",
-        "2026-04-17T01:12:48.924Z"
+        "2026-04-17T01:12:48.924Z",
+        "2026-04-17T05:12:53.201Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:12:47.124Z",
-        "anchor_6h": "2026-04-16T21:12:47.124Z",
-        "anchor_12h": "2026-04-16T13:12:45.261Z",
-        "anchor_24h": "2026-04-16T01:12:35.126Z",
+        "latest_previous": "2026-04-17T01:12:48.924Z",
+        "anchor_6h": "2026-04-17T01:12:48.924Z",
+        "anchor_12h": "2026-04-16T17:12:46.253Z",
+        "anchor_24h": "2026-04-16T05:12:40.646Z",
         "anchor_48h": "2026-04-15T09:02:22.048Z"
       },
       "history": [
@@ -2801,81 +2954,170 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:12:53.201Z",
+          "result_count": 35,
+          "price_text": "~b/o 2300 divine",
+          "seller": "siuuyo#8944",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "68c5f968550286c6b475866500b2b127c5590395c0ff3de57d2d8800d1adb82e",
+              "seller": "siuuyo#8944",
+              "indexed": "2026-04-17T04:22:41Z",
+              "age_minutes": 50,
+              "price": {
+                "type": "~b/o",
+                "amount": 2300,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sekhema Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "76b421e40c0d6d1b52672514fd54ce9f71e984316fb0dbf4d4823ed1fddfb47d",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 52,
+              "price": {
+                "type": "~b/o",
+                "amount": 2375,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sekhema Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "d117ffba473aaf95f8d5517a082ea7a137f17100325a75b1311f10bea200e04e",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 52,
+              "price": {
+                "type": "~b/o",
+                "amount": 2375,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sekhema Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4b6cb4e0742515a710fc9fb5291eaa8c2714df8f4cd79eab5d23797f21a07d79",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 52,
+              "price": {
+                "type": "~b/o",
+                "amount": 2375,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sekhema Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "3065662d916c6798a5289da7a246b57fc5dadb855b4f07a2eeba21eaa42b4231",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 52,
+              "price": {
+                "type": "~b/o",
+                "amount": 2375,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sekhema Sandals",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "9b4e2bbea9bc235f6af0c7d240b2e4ee9544afa4406a9e29889a013092d086fa",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:37:52Z",
-          "age_minutes": 35,
-          "price": {
-            "type": "~b/o",
-            "amount": 2385,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sekhema Sandals",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "7e29c3c2961efa769a933fe4e1ea6343ba02f1ec6ae9941066641b2c68ac0db1",
-          "seller": "Conif#2444",
-          "indexed": "2026-04-16T23:03:03Z",
-          "age_minutes": 130,
-          "price": {
-            "type": "~b/o",
-            "amount": 2389,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sekhema Sandals",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "776461640d0baef4310cc15a5be27e4b4dca40f5d5ec9d993745414ef71fd950",
-          "seller": "quanghung1995#9127",
-          "indexed": "2026-04-16T22:31:31Z",
-          "age_minutes": 161,
-          "price": {
-            "type": "~b/o",
-            "amount": 2390,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sekhema Sandals",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "dd77dd22eb5a3faa1beb3bb626e5ebf2929cfeac34366cc28f0fc382c5ee9c97",
-          "seller": "quanghung1995#9127",
-          "indexed": "2026-04-16T20:50:28Z",
-          "age_minutes": 262,
-          "price": {
-            "type": "~b/o",
-            "amount": 2400,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sekhema Sandals",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "68c5f968550286c6b475866500b2b127c5590395c0ff3de57d2d8800d1adb82e",
           "seller": "siuuyo#8944",
-          "indexed": "2026-04-16T16:13:03Z",
-          "age_minutes": 540,
+          "indexed": "2026-04-17T04:22:41Z",
+          "age_minutes": 50,
           "price": {
             "type": "~b/o",
-            "amount": 2460,
+            "amount": 2300,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sekhema Sandals",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "76b421e40c0d6d1b52672514fd54ce9f71e984316fb0dbf4d4823ed1fddfb47d",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 52,
+          "price": {
+            "type": "~b/o",
+            "amount": 2375,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sekhema Sandals",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "d117ffba473aaf95f8d5517a082ea7a137f17100325a75b1311f10bea200e04e",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 52,
+          "price": {
+            "type": "~b/o",
+            "amount": 2375,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sekhema Sandals",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "4b6cb4e0742515a710fc9fb5291eaa8c2714df8f4cd79eab5d23797f21a07d79",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 52,
+          "price": {
+            "type": "~b/o",
+            "amount": 2375,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sekhema Sandals",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "3065662d916c6798a5289da7a246b57fc5dadb855b4f07a2eeba21eaa42b4231",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 52,
+          "price": {
+            "type": "~b/o",
+            "amount": 2375,
             "currency": "divine"
           },
           "item": {
@@ -2886,13 +3128,13 @@
         }
       ],
       "raw_listing": {
-        "id": "9b4e2bbea9bc235f6af0c7d240b2e4ee9544afa4406a9e29889a013092d086fa",
-        "account": "long191120#7960",
+        "id": "68c5f968550286c6b475866500b2b127c5590395c0ff3de57d2d8800d1adb82e",
+        "account": "siuuyo#8944",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:37:52Z",
+        "indexed": "2026-04-17T04:22:41Z",
         "price": {
           "type": "~b/o",
-          "amount": 2385,
+          "amount": 2300,
           "currency": "divine"
         },
         "item": {
@@ -2908,13 +3150,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:14:19.661Z",
-      "price_text": "~b/o 600 divine",
-      "seller": "quanghung1995#9127",
+      "fetched_at": "2026-04-17T05:14:23.953Z",
+      "price_text": "~b/o 670 divine",
+      "seller": "Cube#4023",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2dbLFE",
       "error": "",
-      "result_count": 58,
-      "sell_speed": "slow",
+      "result_count": 50,
+      "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:03:52.816Z",
         "2026-04-15T13:13:51.873Z",
@@ -2926,13 +3168,14 @@
         "2026-04-16T13:14:16.090Z",
         "2026-04-16T17:14:17.003Z",
         "2026-04-16T21:14:18.406Z",
-        "2026-04-17T01:14:19.661Z"
+        "2026-04-17T01:14:19.661Z",
+        "2026-04-17T05:14:23.953Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:14:18.406Z",
-        "anchor_6h": "2026-04-16T21:14:18.406Z",
-        "anchor_12h": "2026-04-16T13:14:16.090Z",
-        "anchor_24h": "2026-04-16T01:14:05.920Z",
+        "latest_previous": "2026-04-17T01:14:19.661Z",
+        "anchor_6h": "2026-04-17T01:14:19.661Z",
+        "anchor_12h": "2026-04-16T17:14:17.003Z",
+        "anchor_24h": "2026-04-16T05:14:11.428Z",
         "anchor_48h": "2026-04-15T09:03:52.816Z"
       },
       "history": [
@@ -3914,17 +4157,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:14:23.953Z",
+          "result_count": 50,
+          "price_text": "~b/o 670 divine",
+          "seller": "Cube#4023",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "ed1f7db94d4c1bdfc91a8f39ee26234e81129dc002297a1a153bae01cb547ae3",
+              "seller": "Cube#4023",
+              "indexed": "2026-04-17T04:54:42Z",
+              "age_minutes": 20,
+              "price": {
+                "type": "~b/o",
+                "amount": 670,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vile Robe",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "de06d1fd5275943b2fc8243ceec922a6c8ba07b98c0c398b15840e710f8c2a4d",
+              "seller": "bizzga#3992",
+              "indexed": "2026-04-16T08:05:48Z",
+              "age_minutes": 1269,
+              "price": {
+                "type": "~b/o",
+                "amount": 678,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vile Robe",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "0ec90f423f5dcd672425b599908f0ef184c95c76ed5de2149ca6f89876304c73",
+              "seller": "BIGONE#6048",
+              "indexed": "2026-04-16T04:07:36Z",
+              "age_minutes": 1507,
+              "price": {
+                "type": "~b/o",
+                "amount": 684,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vile Robe",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "0d4d44dc96ab5f008cd1eac9973feef185e9c83d870b8aa48e493abc56710693",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T16:22:22Z",
+              "age_minutes": 772,
+              "price": {
+                "type": "~b/o",
+                "amount": 685,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vile Robe",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "3a7bfec7088a1ae42dcb36d74cabe349f44f0ba1c9d604106b59ec135f3aebe0",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T02:33:35Z",
+              "age_minutes": 1601,
+              "price": {
+                "type": "~b/o",
+                "amount": 685,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vile Robe",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "1c60fdca96891ec2af2c6821e1d639cbe189f7dfca8fea1e85b389b7329a1e8f",
-          "seller": "quanghung1995#9127",
-          "indexed": "2026-04-16T22:31:31Z",
-          "age_minutes": 163,
+          "listing_id": "ed1f7db94d4c1bdfc91a8f39ee26234e81129dc002297a1a153bae01cb547ae3",
+          "seller": "Cube#4023",
+          "indexed": "2026-04-17T04:54:42Z",
+          "age_minutes": 20,
           "price": {
             "type": "~b/o",
-            "amount": 600,
+            "amount": 670,
             "currency": "divine"
           },
           "item": {
@@ -3934,13 +4266,29 @@
           }
         },
         {
-          "listing_id": "0c5c0c4d48d4b533e6eda627b387a972d18869ded598a536e18f5f0c881c1d8c",
+          "listing_id": "de06d1fd5275943b2fc8243ceec922a6c8ba07b98c0c398b15840e710f8c2a4d",
+          "seller": "bizzga#3992",
+          "indexed": "2026-04-16T08:05:48Z",
+          "age_minutes": 1269,
+          "price": {
+            "type": "~b/o",
+            "amount": 678,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Vile Robe",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "0ec90f423f5dcd672425b599908f0ef184c95c76ed5de2149ca6f89876304c73",
           "seller": "BIGONE#6048",
-          "indexed": "2026-04-16T15:10:46Z",
-          "age_minutes": 604,
+          "indexed": "2026-04-16T04:07:36Z",
+          "age_minutes": 1507,
           "price": {
             "type": "~b/o",
-            "amount": 615,
+            "amount": 684,
             "currency": "divine"
           },
           "item": {
@@ -3950,13 +4298,13 @@
           }
         },
         {
-          "listing_id": "a39d4acb687dbf2e75a6e98d4ef39fe09d9ef89b22888f3e3f4b15fdc21fbc5a",
-          "seller": "dogstar#9816",
-          "indexed": "2026-04-16T10:48:30Z",
-          "age_minutes": 866,
+          "listing_id": "0d4d44dc96ab5f008cd1eac9973feef185e9c83d870b8aa48e493abc56710693",
+          "seller": "Longmirdrop#5046",
+          "indexed": "2026-04-16T16:22:22Z",
+          "age_minutes": 772,
           "price": {
             "type": "~b/o",
-            "amount": 616,
+            "amount": 685,
             "currency": "divine"
           },
           "item": {
@@ -3966,29 +4314,13 @@
           }
         },
         {
-          "listing_id": "5b5de41ab249d1fc3f0da3cb19b5723dcc9fb35cee9e9fabcc6c1a1020a8df11",
-          "seller": "dogstar#9816",
-          "indexed": "2026-04-16T10:48:30Z",
-          "age_minutes": 866,
+          "listing_id": "3a7bfec7088a1ae42dcb36d74cabe349f44f0ba1c9d604106b59ec135f3aebe0",
+          "seller": "Longmirdrop#5046",
+          "indexed": "2026-04-16T02:33:35Z",
+          "age_minutes": 1601,
           "price": {
             "type": "~b/o",
-            "amount": 616,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Vile Robe",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "f309c2fb1803dc00ff823cf6d147ff140d842cebcbdecf68a080ce73bb8e4e1a",
-          "seller": "phunghuuhien1990#6964",
-          "indexed": "2026-04-16T09:17:29Z",
-          "age_minutes": 957,
-          "price": {
-            "type": "~b/o",
-            "amount": 617,
+            "amount": 685,
             "currency": "divine"
           },
           "item": {
@@ -3999,13 +4331,13 @@
         }
       ],
       "raw_listing": {
-        "id": "1c60fdca96891ec2af2c6821e1d639cbe189f7dfca8fea1e85b389b7329a1e8f",
-        "account": "quanghung1995#9127",
+        "id": "ed1f7db94d4c1bdfc91a8f39ee26234e81129dc002297a1a153bae01cb547ae3",
+        "account": "Cube#4023",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T22:31:31Z",
+        "indexed": "2026-04-17T04:54:42Z",
         "price": {
           "type": "~b/o",
-          "amount": 600,
+          "amount": 670,
           "currency": "divine"
         },
         "item": {
@@ -4021,13 +4353,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:14:30.426Z",
-      "price_text": "~b/o 295 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:14:34.668Z",
+      "price_text": "~b/o 290 divine",
+      "seller": "mackhoon#0256",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prn7BUn",
       "error": "",
-      "result_count": 19,
-      "sell_speed": "medium",
+      "result_count": 15,
+      "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:04:03.561Z",
         "2026-04-15T13:14:02.648Z",
@@ -4039,13 +4371,14 @@
         "2026-04-16T13:14:26.840Z",
         "2026-04-16T17:14:27.771Z",
         "2026-04-16T21:14:29.185Z",
-        "2026-04-17T01:14:30.426Z"
+        "2026-04-17T01:14:30.426Z",
+        "2026-04-17T05:14:34.668Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:14:29.185Z",
-        "anchor_6h": "2026-04-16T21:14:29.185Z",
-        "anchor_12h": "2026-04-16T13:14:26.840Z",
-        "anchor_24h": "2026-04-16T01:14:16.649Z",
+        "latest_previous": "2026-04-17T01:14:30.426Z",
+        "anchor_6h": "2026-04-17T01:14:30.426Z",
+        "anchor_12h": "2026-04-16T17:14:27.771Z",
+        "anchor_24h": "2026-04-16T05:14:22.174Z",
         "anchor_48h": "2026-04-15T09:04:03.561Z"
       },
       "history": [
@@ -5027,17 +5360,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:14:34.668Z",
+          "result_count": 15,
+          "price_text": "~b/o 290 divine",
+          "seller": "mackhoon#0256",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "9c0799f6381c5769f712a3802ab91fb8d2b9ad5590287ce9edb70586c4a526f4",
+              "seller": "mackhoon#0256",
+              "indexed": "2026-04-17T04:39:32Z",
+              "age_minutes": 35,
+              "price": {
+                "type": "~b/o",
+                "amount": 290,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sandsworn Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "d0b53a11b1bfab7075daff024a11e68197551dd88015c7da55442f17099b05d9",
+              "seller": "동그리crom715#8814",
+              "indexed": "2026-04-16T19:08:23Z",
+              "age_minutes": 606,
+              "price": {
+                "type": "~b/o",
+                "amount": 300,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sandsworn Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "540e71cf594cac9b7e538c6690a333b819032d4634364a602fc4703c54d9c94a",
+              "seller": "히어료#6927",
+              "indexed": "2026-04-16T13:22:38Z",
+              "age_minutes": 952,
+              "price": {
+                "type": "~b/o",
+                "amount": 300,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sandsworn Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "7e4830c897cfa612c672776989dc281ee93d05bcd4e0d7fa28cf222c1383050e",
+              "seller": "levangioi#1542",
+              "indexed": "2026-04-15T14:49:53Z",
+              "age_minutes": 2305,
+              "price": {
+                "type": "~b/o",
+                "amount": 399,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sandsworn Sandals",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "7a3dff25fdae8e264c4603ea049fde4afbf308fd62e21dc77d4f402f67fc9dc4",
+              "seller": "levangioi#1542",
+              "indexed": "2026-04-15T14:49:53Z",
+              "age_minutes": 2305,
+              "price": {
+                "type": "~b/o",
+                "amount": 399,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sandsworn Sandals",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "c0f594c2052c214dee93af7f985d4a426be094fc0ec2ba65f0f5556a0328ce4d",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:38:58Z",
-          "age_minutes": 36,
+          "listing_id": "9c0799f6381c5769f712a3802ab91fb8d2b9ad5590287ce9edb70586c4a526f4",
+          "seller": "mackhoon#0256",
+          "indexed": "2026-04-17T04:39:32Z",
+          "age_minutes": 35,
           "price": {
             "type": "~b/o",
-            "amount": 295,
+            "amount": 290,
             "currency": "divine"
           },
           "item": {
@@ -5047,13 +5469,13 @@
           }
         },
         {
-          "listing_id": "9f0887511d643d0531f91d55263ea624eb8841277d62f0a96b0d5c52ce17081a",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:38:58Z",
-          "age_minutes": 36,
+          "listing_id": "d0b53a11b1bfab7075daff024a11e68197551dd88015c7da55442f17099b05d9",
+          "seller": "동그리crom715#8814",
+          "indexed": "2026-04-16T19:08:23Z",
+          "age_minutes": 606,
           "price": {
             "type": "~b/o",
-            "amount": 295,
+            "amount": 300,
             "currency": "divine"
           },
           "item": {
@@ -5063,13 +5485,13 @@
           }
         },
         {
-          "listing_id": "7c17f6599048d7356d89dd317cd9058fd0e705972dfcb9053e00e703d386277a",
-          "seller": "보호한다#8183",
-          "indexed": "2026-04-14T14:32:36Z",
-          "age_minutes": 3522,
+          "listing_id": "540e71cf594cac9b7e538c6690a333b819032d4634364a602fc4703c54d9c94a",
+          "seller": "히어료#6927",
+          "indexed": "2026-04-16T13:22:38Z",
+          "age_minutes": 952,
           "price": {
             "type": "~b/o",
-            "amount": 298,
+            "amount": 300,
             "currency": "divine"
           },
           "item": {
@@ -5079,13 +5501,13 @@
           }
         },
         {
-          "listing_id": "a036ea94a20be441b31d81feee2e412e8e03354f64c84ba2e8b73cf17a20e946",
+          "listing_id": "7e4830c897cfa612c672776989dc281ee93d05bcd4e0d7fa28cf222c1383050e",
           "seller": "levangioi#1542",
-          "indexed": "2026-04-13T14:19:04Z",
-          "age_minutes": 4975,
+          "indexed": "2026-04-15T14:49:53Z",
+          "age_minutes": 2305,
           "price": {
             "type": "~b/o",
-            "amount": 299,
+            "amount": 399,
             "currency": "divine"
           },
           "item": {
@@ -5095,13 +5517,13 @@
           }
         },
         {
-          "listing_id": "e278f6aaf4aea8edaefef1d095761a73608d794044441f5e1caece0e4dfac26c",
+          "listing_id": "7a3dff25fdae8e264c4603ea049fde4afbf308fd62e21dc77d4f402f67fc9dc4",
           "seller": "levangioi#1542",
-          "indexed": "2026-04-12T20:05:57Z",
-          "age_minutes": 6069,
+          "indexed": "2026-04-15T14:49:53Z",
+          "age_minutes": 2305,
           "price": {
             "type": "~b/o",
-            "amount": 299,
+            "amount": 399,
             "currency": "divine"
           },
           "item": {
@@ -5112,13 +5534,13 @@
         }
       ],
       "raw_listing": {
-        "id": "c0f594c2052c214dee93af7f985d4a426be094fc0ec2ba65f0f5556a0328ce4d",
-        "account": "long191120#7960",
+        "id": "9c0799f6381c5769f712a3802ab91fb8d2b9ad5590287ce9edb70586c4a526f4",
+        "account": "mackhoon#0256",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:38:58Z",
+        "indexed": "2026-04-17T04:39:32Z",
         "price": {
           "type": "~b/o",
-          "amount": 295,
+          "amount": 290,
           "currency": "divine"
         },
         "item": {
@@ -5134,12 +5556,12 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:14:41.217Z",
-      "price_text": "~b/o 480 divine",
-      "seller": "quanghung1995#9127",
+      "fetched_at": "2026-04-17T05:14:45.416Z",
+      "price_text": "~b/o 450 divine",
+      "seller": "mackhoon#0256",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D6QLJjPVf5",
       "error": "",
-      "result_count": 39,
+      "result_count": 41,
       "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:04:14.333Z",
@@ -5152,13 +5574,14 @@
         "2026-04-16T13:14:37.657Z",
         "2026-04-16T17:14:38.576Z",
         "2026-04-16T21:14:39.947Z",
-        "2026-04-17T01:14:41.217Z"
+        "2026-04-17T01:14:41.217Z",
+        "2026-04-17T05:14:45.416Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:14:39.947Z",
-        "anchor_6h": "2026-04-16T21:14:39.947Z",
-        "anchor_12h": "2026-04-16T13:14:37.657Z",
-        "anchor_24h": "2026-04-16T01:14:27.380Z",
+        "latest_previous": "2026-04-17T01:14:41.217Z",
+        "anchor_6h": "2026-04-17T01:14:41.217Z",
+        "anchor_12h": "2026-04-16T17:14:38.576Z",
+        "anchor_24h": "2026-04-16T05:14:32.968Z",
         "anchor_48h": "2026-04-15T09:04:14.333Z"
       },
       "history": [
@@ -6140,14 +6563,151 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:14:45.416Z",
+          "result_count": 41,
+          "price_text": "~b/o 450 divine",
+          "seller": "mackhoon#0256",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "80d6e483f04acc765320765f926e465b57e24d7ffc47972dbec4f6e9a2878be3",
+              "seller": "mackhoon#0256",
+              "indexed": "2026-04-17T04:39:32Z",
+              "age_minutes": 35,
+              "price": {
+                "type": "~b/o",
+                "amount": 450,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sirenscale Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "d88b9479f1ea93e8fd49d253c4a29047a227198fce86da6c7b3356184c9eb018",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 54,
+              "price": {
+                "type": "~b/o",
+                "amount": 475,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sirenscale Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "1a7a6d8152783a557877b42b5201bf7a7644146323a0890e99597b18061b8eb6",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:44:50Z",
+              "age_minutes": 210,
+              "price": {
+                "type": "~b/o",
+                "amount": 479,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sirenscale Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "ff3093154d473eb5a0d1cca835b056060363f7c0c1cdf663a5ba5139456acbc4",
+              "seller": "quanghung1995#9127",
+              "indexed": "2026-04-16T22:31:31Z",
+              "age_minutes": 403,
+              "price": {
+                "type": "~b/o",
+                "amount": 480,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sirenscale Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "2411a5506a6f38202c50729f6de99d564359e599a14b248b0ae17aaae948593a",
+              "seller": "bizzga#3992",
+              "indexed": "2026-04-16T17:30:00Z",
+              "age_minutes": 705,
+              "price": {
+                "type": "~b/o",
+                "amount": 488,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sirenscale Gloves",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "80d6e483f04acc765320765f926e465b57e24d7ffc47972dbec4f6e9a2878be3",
+          "seller": "mackhoon#0256",
+          "indexed": "2026-04-17T04:39:32Z",
+          "age_minutes": 35,
+          "price": {
+            "type": "~b/o",
+            "amount": 450,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sirenscale Gloves",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "d88b9479f1ea93e8fd49d253c4a29047a227198fce86da6c7b3356184c9eb018",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 54,
+          "price": {
+            "type": "~b/o",
+            "amount": 475,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sirenscale Gloves",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "1a7a6d8152783a557877b42b5201bf7a7644146323a0890e99597b18061b8eb6",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:44:50Z",
+          "age_minutes": 210,
+          "price": {
+            "type": "~b/o",
+            "amount": 479,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sirenscale Gloves",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "ff3093154d473eb5a0d1cca835b056060363f7c0c1cdf663a5ba5139456acbc4",
           "seller": "quanghung1995#9127",
           "indexed": "2026-04-16T22:31:31Z",
-          "age_minutes": 163,
+          "age_minutes": 403,
           "price": {
             "type": "~b/o",
             "amount": 480,
@@ -6160,61 +6720,13 @@
           }
         },
         {
-          "listing_id": "d5847643eaf3b3a31ecde6282b65ed43610deda028e20f2864eb624ed3a636a9",
-          "seller": "bizzga#3992",
-          "indexed": "2026-04-16T17:30:00Z",
-          "age_minutes": 465,
-          "price": {
-            "type": "~b/o",
-            "amount": 488,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sirenscale Gloves",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "2411a5506a6f38202c50729f6de99d564359e599a14b248b0ae17aaae948593a",
           "seller": "bizzga#3992",
           "indexed": "2026-04-16T17:30:00Z",
-          "age_minutes": 465,
+          "age_minutes": 705,
           "price": {
             "type": "~b/o",
             "amount": 488,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sirenscale Gloves",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "6d43752630f3b41860e6e41118b5df4b760c6597d7ca31e99b9a3b6531c918f2",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 532,
-          "price": {
-            "type": "~b/o",
-            "amount": 495,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sirenscale Gloves",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "0f4466c057c5bc79198eb6d5fb05e34dc12448283a212cc133783a9a817f7e1b",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-16T15:19:09Z",
-          "age_minutes": 596,
-          "price": {
-            "type": "~b/o",
-            "amount": 495,
             "currency": "divine"
           },
           "item": {
@@ -6225,13 +6737,13 @@
         }
       ],
       "raw_listing": {
-        "id": "ff3093154d473eb5a0d1cca835b056060363f7c0c1cdf663a5ba5139456acbc4",
-        "account": "quanghung1995#9127",
+        "id": "80d6e483f04acc765320765f926e465b57e24d7ffc47972dbec4f6e9a2878be3",
+        "account": "mackhoon#0256",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T22:31:31Z",
+        "indexed": "2026-04-17T04:39:32Z",
         "price": {
           "type": "~b/o",
-          "amount": 480,
+          "amount": 450,
           "currency": "divine"
         },
         "item": {
@@ -6247,12 +6759,12 @@
       "notes": "Grants Skill: Level 18 Spellslinger",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:16:11.940Z",
-      "price_text": "~b/o 390 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:16:16.164Z",
+      "price_text": "~b/o 296 divine",
+      "seller": "Conif#2444",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/mkGlwDeRH6",
       "error": "",
-      "result_count": 57,
+      "result_count": 58,
       "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:05:45.174Z",
@@ -6265,13 +6777,14 @@
         "2026-04-16T13:16:08.439Z",
         "2026-04-16T17:16:09.371Z",
         "2026-04-16T21:16:10.726Z",
-        "2026-04-17T01:16:11.940Z"
+        "2026-04-17T01:16:11.940Z",
+        "2026-04-17T05:16:16.164Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:16:10.726Z",
-        "anchor_6h": "2026-04-16T21:16:10.726Z",
-        "anchor_12h": "2026-04-16T13:16:08.439Z",
-        "anchor_24h": "2026-04-16T01:15:58.124Z",
+        "latest_previous": "2026-04-17T01:16:11.940Z",
+        "anchor_6h": "2026-04-17T01:16:11.940Z",
+        "anchor_12h": "2026-04-16T17:16:09.371Z",
+        "anchor_24h": "2026-04-16T05:16:03.756Z",
         "anchor_48h": "2026-04-15T09:05:45.174Z"
       },
       "history": [
@@ -7253,14 +7766,135 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:16:16.164Z",
+          "result_count": 58,
+          "price_text": "~b/o 296 divine",
+          "seller": "Conif#2444",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "2e511711250f0b1df88f2efb8c4b9a0681d0608b4d5f0c9036766272a18f3d81",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:54:48Z",
+              "age_minutes": 201,
+              "price": {
+                "type": "~b/o",
+                "amount": 296,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "5432b198b9b52baa28932cbc536a5abe7a8964ab92224ea91f4a653aa62b1b4f",
+              "seller": "Taiproqn0990#8632",
+              "indexed": "2026-04-17T01:26:44Z",
+              "age_minutes": 230,
+              "price": {
+                "type": "~b/o",
+                "amount": 388,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 83,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "1667cbf6583d5a78c6c1cf289a4a9e4ab301ddea37a5a1c9a6db62d6682690d0",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-16T19:45:35Z",
+              "age_minutes": 571,
+              "price": {
+                "type": "~b/o",
+                "amount": 390,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "b93f227b3e67323150c1375d1e36d02d9a9b0474ba7aaa236cb1d27c473631d3",
+              "seller": "pukunlin#8842",
+              "indexed": "2026-04-10T08:50:16Z",
+              "age_minutes": 9866,
+              "price": {
+                "type": "~b/o",
+                "amount": 430,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e7a086a7f5e96826c5aec3effc09a7f9788ebc9e63637f8c751bee1e94f22eb8",
+              "seller": "pukunlin#8842",
+              "indexed": "2026-04-10T08:50:16Z",
+              "age_minutes": 9866,
+              "price": {
+                "type": "~b/o",
+                "amount": 430,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Dueling Wand",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "2e511711250f0b1df88f2efb8c4b9a0681d0608b4d5f0c9036766272a18f3d81",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:54:48Z",
+          "age_minutes": 201,
+          "price": {
+            "type": "~b/o",
+            "amount": 296,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Dueling Wand",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "5432b198b9b52baa28932cbc536a5abe7a8964ab92224ea91f4a653aa62b1b4f",
+          "seller": "Taiproqn0990#8632",
+          "indexed": "2026-04-17T01:26:44Z",
+          "age_minutes": 230,
+          "price": {
+            "type": "~b/o",
+            "amount": 388,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 83,
+            "typeLine": "Exceptional Dueling Wand",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "1667cbf6583d5a78c6c1cf289a4a9e4ab301ddea37a5a1c9a6db62d6682690d0",
           "seller": "long191120#7960",
           "indexed": "2026-04-16T19:45:35Z",
-          "age_minutes": 331,
+          "age_minutes": 571,
           "price": {
             "type": "~b/o",
             "amount": 390,
@@ -7273,26 +7907,10 @@
           }
         },
         {
-          "listing_id": "e7a086a7f5e96826c5aec3effc09a7f9788ebc9e63637f8c751bee1e94f22eb8",
-          "seller": "pukunlin#8842",
-          "indexed": "2026-04-10T08:50:16Z",
-          "age_minutes": 9626,
-          "price": {
-            "type": "~b/o",
-            "amount": 430,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Dueling Wand",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "b93f227b3e67323150c1375d1e36d02d9a9b0474ba7aaa236cb1d27c473631d3",
           "seller": "pukunlin#8842",
           "indexed": "2026-04-10T08:50:16Z",
-          "age_minutes": 9626,
+          "age_minutes": 9866,
           "price": {
             "type": "~b/o",
             "amount": 430,
@@ -7305,29 +7923,13 @@
           }
         },
         {
-          "listing_id": "1af7f7db63d1b40a382308229610d802ef05f63f4dc0a05b06d00b246b32240a",
-          "seller": "levangioi#1542",
-          "indexed": "2026-04-11T07:37:28Z",
-          "age_minutes": 8259,
+          "listing_id": "e7a086a7f5e96826c5aec3effc09a7f9788ebc9e63637f8c751bee1e94f22eb8",
+          "seller": "pukunlin#8842",
+          "indexed": "2026-04-10T08:50:16Z",
+          "age_minutes": 9866,
           "price": {
             "type": "~b/o",
-            "amount": 499,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Dueling Wand",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "4bc2fb69fcecd54d86f8f6a71596fdb35d6cf2e406b2ea86d69e3c66bbbcb8a7",
-          "seller": "levangioi#1542",
-          "indexed": "2026-04-11T07:37:28Z",
-          "age_minutes": 8259,
-          "price": {
-            "type": "~b/o",
-            "amount": 499,
+            "amount": 430,
             "currency": "divine"
           },
           "item": {
@@ -7338,13 +7940,13 @@
         }
       ],
       "raw_listing": {
-        "id": "1667cbf6583d5a78c6c1cf289a4a9e4ab301ddea37a5a1c9a6db62d6682690d0",
-        "account": "long191120#7960",
+        "id": "2e511711250f0b1df88f2efb8c4b9a0681d0608b4d5f0c9036766272a18f3d81",
+        "account": "Conif#2444",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T19:45:35Z",
+        "indexed": "2026-04-17T01:54:48Z",
         "price": {
           "type": "~b/o",
-          "amount": 390,
+          "amount": 296,
           "currency": "divine"
         },
         "item": {
@@ -7360,12 +7962,12 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:16:22.681Z",
-      "price_text": "~b/o 220 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:16:26.908Z",
+      "price_text": "~b/o 200 divine",
+      "seller": "Cube#4023",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/D64ZalewC5",
       "error": "",
-      "result_count": 67,
+      "result_count": 74,
       "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:05:55.941Z",
@@ -7378,13 +7980,14 @@
         "2026-04-16T13:16:19.213Z",
         "2026-04-16T17:16:20.130Z",
         "2026-04-16T21:16:21.557Z",
-        "2026-04-17T01:16:22.681Z"
+        "2026-04-17T01:16:22.681Z",
+        "2026-04-17T05:16:26.908Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:16:21.557Z",
-        "anchor_6h": "2026-04-16T21:16:21.557Z",
-        "anchor_12h": "2026-04-16T13:16:19.213Z",
-        "anchor_24h": "2026-04-16T01:16:08.864Z",
+        "latest_previous": "2026-04-17T01:16:22.681Z",
+        "anchor_6h": "2026-04-17T01:16:22.681Z",
+        "anchor_12h": "2026-04-16T17:16:20.130Z",
+        "anchor_24h": "2026-04-16T05:16:14.506Z",
         "anchor_48h": "2026-04-15T09:05:55.941Z"
       },
       "history": [
@@ -8366,17 +8969,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:16:26.908Z",
+          "result_count": 74,
+          "price_text": "~b/o 200 divine",
+          "seller": "Cube#4023",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "c16185cac3cfa8099d4c8d21383255e3ce83e3450e87c48910fe1daab68bda3f",
+              "seller": "Cube#4023",
+              "indexed": "2026-04-17T04:54:42Z",
+              "age_minutes": 22,
+              "price": {
+                "type": "~b/o",
+                "amount": 200,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ancestral Tiara",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4a068360b4b53e26b0557c38dc419a87d362ead20ee751239b7de15967aeeb27",
+              "seller": "Cube#4023",
+              "indexed": "2026-04-17T04:54:42Z",
+              "age_minutes": 22,
+              "price": {
+                "type": "~b/o",
+                "amount": 200,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ancestral Tiara",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "471b14cb959bc77801d6b20004a08b93adbd02f4cc4cec01ca166f6b6a1b041c",
+              "seller": "mackhoon#0256",
+              "indexed": "2026-04-17T04:39:32Z",
+              "age_minutes": 37,
+              "price": {
+                "type": "~b/o",
+                "amount": 210,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ancestral Tiara",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "443b98e2e6deb5e44e4579f122299d7fcfa1cf44918743c2d2045464848fabcf",
+              "seller": "smit38#3712",
+              "indexed": "2026-04-17T04:48:37Z",
+              "age_minutes": 28,
+              "price": {
+                "type": "~b/o",
+                "amount": 210,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ancestral Tiara",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "d03a7a155944ea678e3b85a86b3cead6eea22bc1bfee79408ca39ea7d9d50e5b",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T04:20:39Z",
+              "age_minutes": 56,
+              "price": {
+                "type": "~b/o",
+                "amount": 211,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ancestral Tiara",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "fb1dfcc39158107feeadf97075e109cd74214f03c09c618ca47e2cca7904732d",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:37:52Z",
-          "age_minutes": 39,
+          "listing_id": "c16185cac3cfa8099d4c8d21383255e3ce83e3450e87c48910fe1daab68bda3f",
+          "seller": "Cube#4023",
+          "indexed": "2026-04-17T04:54:42Z",
+          "age_minutes": 22,
           "price": {
             "type": "~b/o",
-            "amount": 220,
+            "amount": 200,
             "currency": "divine"
           },
           "item": {
@@ -8386,13 +9078,13 @@
           }
         },
         {
-          "listing_id": "8e46bcd9c43ad5bbbf0b2dfaea1599c9ac3d8547543cfd67a9e272f4cb83d601",
-          "seller": "mutou#4206",
-          "indexed": "2026-04-16T15:10:09Z",
-          "age_minutes": 606,
+          "listing_id": "4a068360b4b53e26b0557c38dc419a87d362ead20ee751239b7de15967aeeb27",
+          "seller": "Cube#4023",
+          "indexed": "2026-04-17T04:54:42Z",
+          "age_minutes": 22,
           "price": {
             "type": "~b/o",
-            "amount": 224,
+            "amount": 200,
             "currency": "divine"
           },
           "item": {
@@ -8402,13 +9094,13 @@
           }
         },
         {
-          "listing_id": "21753d495cf955090a44bbbe92810e8ec6fddcc111ff5bbe296ebffe8f42af35",
-          "seller": "Taiproqn0990#8632",
-          "indexed": "2026-04-16T12:00:09Z",
-          "age_minutes": 796,
+          "listing_id": "471b14cb959bc77801d6b20004a08b93adbd02f4cc4cec01ca166f6b6a1b041c",
+          "seller": "mackhoon#0256",
+          "indexed": "2026-04-17T04:39:32Z",
+          "age_minutes": 37,
           "price": {
             "type": "~b/o",
-            "amount": 225,
+            "amount": 210,
             "currency": "divine"
           },
           "item": {
@@ -8418,13 +9110,13 @@
           }
         },
         {
-          "listing_id": "2e232d782d842735fb45d300d975189b1471dd16ce1e61057c14e47704c8d977",
-          "seller": "Taiproqn0990#8632",
-          "indexed": "2026-04-16T12:00:09Z",
-          "age_minutes": 796,
+          "listing_id": "443b98e2e6deb5e44e4579f122299d7fcfa1cf44918743c2d2045464848fabcf",
+          "seller": "smit38#3712",
+          "indexed": "2026-04-17T04:48:37Z",
+          "age_minutes": 28,
           "price": {
             "type": "~b/o",
-            "amount": 225,
+            "amount": 210,
             "currency": "divine"
           },
           "item": {
@@ -8434,13 +9126,13 @@
           }
         },
         {
-          "listing_id": "61d390669679c47ef761f6cf7110d96cd533ee1d5499f5f46c6e3561e3881839",
-          "seller": "Taiproqn0990#8632",
-          "indexed": "2026-04-16T15:38:26Z",
-          "age_minutes": 578,
+          "listing_id": "d03a7a155944ea678e3b85a86b3cead6eea22bc1bfee79408ca39ea7d9d50e5b",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T04:20:39Z",
+          "age_minutes": 56,
           "price": {
             "type": "~b/o",
-            "amount": 225,
+            "amount": 211,
             "currency": "divine"
           },
           "item": {
@@ -8451,13 +9143,13 @@
         }
       ],
       "raw_listing": {
-        "id": "fb1dfcc39158107feeadf97075e109cd74214f03c09c618ca47e2cca7904732d",
-        "account": "long191120#7960",
+        "id": "c16185cac3cfa8099d4c8d21383255e3ce83e3450e87c48910fe1daab68bda3f",
+        "account": "Cube#4023",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:37:52Z",
+        "indexed": "2026-04-17T04:54:42Z",
         "price": {
           "type": "~b/o",
-          "amount": 220,
+          "amount": 200,
           "currency": "divine"
         },
         "item": {
@@ -8473,13 +9165,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:16:33.405Z",
-      "price_text": "~b/o 20 divine",
-      "seller": "woo3d#7495",
+      "fetched_at": "2026-04-17T05:16:37.678Z",
+      "price_text": "~b/o 50 divine",
+      "seller": "yussy#1723",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/4mv7GXQMi9",
       "error": "",
-      "result_count": 60,
-      "sell_speed": "slow",
+      "result_count": 55,
+      "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:06:06.725Z",
         "2026-04-15T13:16:05.629Z",
@@ -8491,13 +9183,14 @@
         "2026-04-16T13:16:30.006Z",
         "2026-04-16T17:16:30.896Z",
         "2026-04-16T21:16:32.324Z",
-        "2026-04-17T01:16:33.405Z"
+        "2026-04-17T01:16:33.405Z",
+        "2026-04-17T05:16:37.678Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:16:32.324Z",
-        "anchor_6h": "2026-04-16T21:16:32.324Z",
-        "anchor_12h": "2026-04-16T13:16:30.006Z",
-        "anchor_24h": "2026-04-16T01:16:19.608Z",
+        "latest_previous": "2026-04-17T01:16:33.405Z",
+        "anchor_6h": "2026-04-17T01:16:33.405Z",
+        "anchor_12h": "2026-04-16T17:16:30.896Z",
+        "anchor_24h": "2026-04-16T05:16:25.247Z",
         "anchor_48h": "2026-04-15T09:06:06.725Z"
       },
       "history": [
@@ -9479,17 +10172,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:16:37.678Z",
+          "result_count": 55,
+          "price_text": "~b/o 50 divine",
+          "seller": "yussy#1723",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "62eed09e0f67b32151403697339a1835a9cb43aad747c732ac9b4325fe142247",
+              "seller": "yussy#1723",
+              "indexed": "2026-04-16T10:12:11Z",
+              "age_minutes": 1144,
+              "price": {
+                "type": "~b/o",
+                "amount": 50,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Spiny Talisman",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "447183cec5183d132c8b99f988896a62a708585f5debb1836cc5973419136620",
+              "seller": "smit38#3712",
+              "indexed": "2026-04-16T03:31:44Z",
+              "age_minutes": 1545,
+              "price": {
+                "type": "~b/o",
+                "amount": 50,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Spiny Talisman",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "37ac20d5f0a796633a25d6cd42925875dfe25d866d8cb61306f59ff8c312f0a0",
+              "seller": "ravando#5643",
+              "indexed": "2026-04-15T13:23:46Z",
+              "age_minutes": 2393,
+              "price": {
+                "type": "~b/o",
+                "amount": 52,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Spiny Talisman",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "ae879811e98e1168cbca14d1aa26c7aa41fdc2eae072d0a569d5402d362a6a2f",
+              "seller": "ravando#5643",
+              "indexed": "2026-04-15T13:23:46Z",
+              "age_minutes": 2393,
+              "price": {
+                "type": "~b/o",
+                "amount": 52,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Spiny Talisman",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e06c86b1e78e467531bd99464d101b4919d0d2899b9cbde8bbc6f87da211273a",
+              "seller": "sagarune#5289",
+              "indexed": "2026-04-15T11:11:09Z",
+              "age_minutes": 2525,
+              "price": {
+                "type": "~b/o",
+                "amount": 53,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Spiny Talisman",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "1d92d1aa5639920e1d99b3ecc25cd7962f8702e07175c3e1272c6776fe010722",
-          "seller": "woo3d#7495",
-          "indexed": "2026-04-16T20:50:40Z",
-          "age_minutes": 266,
+          "listing_id": "62eed09e0f67b32151403697339a1835a9cb43aad747c732ac9b4325fe142247",
+          "seller": "yussy#1723",
+          "indexed": "2026-04-16T10:12:11Z",
+          "age_minutes": 1144,
           "price": {
             "type": "~b/o",
-            "amount": 20,
+            "amount": 50,
             "currency": "divine"
           },
           "item": {
@@ -9499,13 +10281,13 @@
           }
         },
         {
-          "listing_id": "ee16652e83ba444e56583757cdf7c9d9f48ce5e9019a2f859fa2adf705781079",
-          "seller": "Taiproqn0990#8632",
-          "indexed": "2026-04-16T15:38:53Z",
-          "age_minutes": 578,
+          "listing_id": "447183cec5183d132c8b99f988896a62a708585f5debb1836cc5973419136620",
+          "seller": "smit38#3712",
+          "indexed": "2026-04-16T03:31:44Z",
+          "age_minutes": 1545,
           "price": {
             "type": "~b/o",
-            "amount": 40,
+            "amount": 50,
             "currency": "divine"
           },
           "item": {
@@ -9515,13 +10297,13 @@
           }
         },
         {
-          "listing_id": "7c170feb4289d747cc0784cddf820593759800edae49aabadc8437b72804ea80",
-          "seller": "AriHaru5555#3008",
-          "indexed": "2026-04-17T00:57:36Z",
-          "age_minutes": 19,
+          "listing_id": "37ac20d5f0a796633a25d6cd42925875dfe25d866d8cb61306f59ff8c312f0a0",
+          "seller": "ravando#5643",
+          "indexed": "2026-04-15T13:23:46Z",
+          "age_minutes": 2393,
           "price": {
             "type": "~b/o",
-            "amount": 43,
+            "amount": 52,
             "currency": "divine"
           },
           "item": {
@@ -9531,13 +10313,13 @@
           }
         },
         {
-          "listing_id": "c5cafb17283082299a7caa5516d1b0d9955df44753fb0157dd897c822bba382d",
-          "seller": "Conif#2444",
-          "indexed": "2026-04-16T10:20:03Z",
-          "age_minutes": 897,
+          "listing_id": "ae879811e98e1168cbca14d1aa26c7aa41fdc2eae072d0a569d5402d362a6a2f",
+          "seller": "ravando#5643",
+          "indexed": "2026-04-15T13:23:46Z",
+          "age_minutes": 2393,
           "price": {
             "type": "~b/o",
-            "amount": 49,
+            "amount": 52,
             "currency": "divine"
           },
           "item": {
@@ -9547,13 +10329,13 @@
           }
         },
         {
-          "listing_id": "414a0208e7734870977c98699170c79ca3fea05c85f48b0c542ec0666bd14662",
-          "seller": "Conif#2444",
-          "indexed": "2026-04-16T10:20:03Z",
-          "age_minutes": 897,
+          "listing_id": "e06c86b1e78e467531bd99464d101b4919d0d2899b9cbde8bbc6f87da211273a",
+          "seller": "sagarune#5289",
+          "indexed": "2026-04-15T11:11:09Z",
+          "age_minutes": 2525,
           "price": {
             "type": "~b/o",
-            "amount": 49,
+            "amount": 53,
             "currency": "divine"
           },
           "item": {
@@ -9564,13 +10346,13 @@
         }
       ],
       "raw_listing": {
-        "id": "1d92d1aa5639920e1d99b3ecc25cd7962f8702e07175c3e1272c6776fe010722",
-        "account": "woo3d#7495",
+        "id": "62eed09e0f67b32151403697339a1835a9cb43aad747c732ac9b4325fe142247",
+        "account": "yussy#1723",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T20:50:40Z",
+        "indexed": "2026-04-16T10:12:11Z",
         "price": {
           "type": "~b/o",
-          "amount": 20,
+          "amount": 50,
           "currency": "divine"
         },
         "item": {
@@ -9586,13 +10368,13 @@
       "notes": "Grants Skill: Spear Throw",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:18:04.169Z",
+      "fetched_at": "2026-04-17T05:18:08.459Z",
       "price_text": "~b/o 130 divine",
       "seller": "VnNaz#5843",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/RJyL5P44h7",
       "error": "",
       "result_count": 35,
-      "sell_speed": "fast",
+      "sell_speed": "slow",
       "snapshot_dates": [
         "2026-04-15T09:07:37.498Z",
         "2026-04-15T13:17:36.371Z",
@@ -9604,13 +10386,14 @@
         "2026-04-16T13:18:00.908Z",
         "2026-04-16T17:18:01.641Z",
         "2026-04-16T21:18:03.115Z",
-        "2026-04-17T01:18:04.169Z"
+        "2026-04-17T01:18:04.169Z",
+        "2026-04-17T05:18:08.459Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:18:03.115Z",
-        "anchor_6h": "2026-04-16T21:18:03.115Z",
-        "anchor_12h": "2026-04-16T13:18:00.908Z",
-        "anchor_24h": "2026-04-16T01:17:50.499Z",
+        "latest_previous": "2026-04-17T01:18:04.169Z",
+        "anchor_6h": "2026-04-17T01:18:04.169Z",
+        "anchor_12h": "2026-04-16T17:18:01.641Z",
+        "anchor_24h": "2026-04-16T05:17:56.298Z",
         "anchor_48h": "2026-04-15T09:07:37.498Z"
       },
       "history": [
@@ -10592,6 +11375,95 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:18:08.459Z",
+          "result_count": 35,
+          "price_text": "~b/o 130 divine",
+          "seller": "VnNaz#5843",
+          "sell_speed": "slow",
+          "top_listings": [
+            {
+              "listing_id": "c19b62d586ddf668d24e296f3bfc14a8acb2b8c014ecef4cd4fb5c37d6e40b0d",
+              "seller": "VnNaz#5843",
+              "indexed": "2026-04-17T00:47:47Z",
+              "age_minutes": 270,
+              "price": {
+                "type": "~b/o",
+                "amount": 130,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Akoyan Spear",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "21b6f1e9b44af85086fbdea8b5094a7fd7b17d0152cdb29acf1917bb5e64d6fd",
+              "seller": "VnNaz#5843",
+              "indexed": "2026-04-17T00:47:47Z",
+              "age_minutes": 270,
+              "price": {
+                "type": "~b/o",
+                "amount": 130,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Akoyan Spear",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e9cec56fee1fd78996c60edf46ed63ac507fbf5e82c34580f004eb475bef8db6",
+              "seller": "AriHaru5555#3008",
+              "indexed": "2026-04-17T00:57:36Z",
+              "age_minutes": 261,
+              "price": {
+                "type": "~b/o",
+                "amount": 140,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Akoyan Spear",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "1e75b97a6f26544bdd050a5252c19d06a84ac1d880e3c123c01c2f14cd9940d1",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-15T02:37:20Z",
+              "age_minutes": 3041,
+              "price": {
+                "type": "~b/o",
+                "amount": 150,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Akoyan Spear",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "8e84b368e53952a6032a654f0f39701b2b709de581c314ee18606741b1443516",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-14T18:33:01Z",
+              "age_minutes": 3525,
+              "price": {
+                "type": "~b/o",
+                "amount": 250,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Akoyan Spear",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
@@ -10599,7 +11471,7 @@
           "listing_id": "c19b62d586ddf668d24e296f3bfc14a8acb2b8c014ecef4cd4fb5c37d6e40b0d",
           "seller": "VnNaz#5843",
           "indexed": "2026-04-17T00:47:47Z",
-          "age_minutes": 30,
+          "age_minutes": 270,
           "price": {
             "type": "~b/o",
             "amount": 130,
@@ -10615,7 +11487,7 @@
           "listing_id": "21b6f1e9b44af85086fbdea8b5094a7fd7b17d0152cdb29acf1917bb5e64d6fd",
           "seller": "VnNaz#5843",
           "indexed": "2026-04-17T00:47:47Z",
-          "age_minutes": 30,
+          "age_minutes": 270,
           "price": {
             "type": "~b/o",
             "amount": 130,
@@ -10631,7 +11503,7 @@
           "listing_id": "e9cec56fee1fd78996c60edf46ed63ac507fbf5e82c34580f004eb475bef8db6",
           "seller": "AriHaru5555#3008",
           "indexed": "2026-04-17T00:57:36Z",
-          "age_minutes": 20,
+          "age_minutes": 261,
           "price": {
             "type": "~b/o",
             "amount": 140,
@@ -10647,7 +11519,7 @@
           "listing_id": "1e75b97a6f26544bdd050a5252c19d06a84ac1d880e3c123c01c2f14cd9940d1",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-15T02:37:20Z",
-          "age_minutes": 2801,
+          "age_minutes": 3041,
           "price": {
             "type": "~b/o",
             "amount": 150,
@@ -10663,7 +11535,7 @@
           "listing_id": "8e84b368e53952a6032a654f0f39701b2b709de581c314ee18606741b1443516",
           "seller": "long191120#7960",
           "indexed": "2026-04-14T18:33:01Z",
-          "age_minutes": 3285,
+          "age_minutes": 3525,
           "price": {
             "type": "~b/o",
             "amount": 250,
@@ -10699,13 +11571,13 @@
       "notes": "Causes Enemies to Explode on Critical kill",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:18:14.879Z",
-      "price_text": "~b/o 9 divine",
-      "seller": "히어료#6927",
+      "fetched_at": "2026-04-17T05:18:21.792Z",
+      "price_text": "~b/o 7 divine",
+      "seller": "비누향기#3705",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/aL3PXJvkHe",
       "error": "",
       "result_count": 45,
-      "sell_speed": "slow",
+      "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:07:48.261Z",
         "2026-04-15T13:17:47.084Z",
@@ -10717,13 +11589,14 @@
         "2026-04-16T13:18:11.683Z",
         "2026-04-16T17:18:12.481Z",
         "2026-04-16T21:18:13.898Z",
-        "2026-04-17T01:18:14.879Z"
+        "2026-04-17T01:18:14.879Z",
+        "2026-04-17T05:18:21.792Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:18:13.898Z",
-        "anchor_6h": "2026-04-16T21:18:13.898Z",
-        "anchor_12h": "2026-04-16T13:18:11.683Z",
-        "anchor_24h": "2026-04-16T01:18:01.253Z",
+        "latest_previous": "2026-04-17T01:18:14.879Z",
+        "anchor_6h": "2026-04-17T01:18:14.879Z",
+        "anchor_12h": "2026-04-16T17:18:12.481Z",
+        "anchor_24h": "2026-04-16T05:18:07.078Z",
         "anchor_48h": "2026-04-15T09:07:48.261Z"
       },
       "history": [
@@ -11705,14 +12578,119 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:18:21.792Z",
+          "result_count": 45,
+          "price_text": "~b/o 7 divine",
+          "seller": "비누향기#3705",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "f23108a382cf1e68ef42a7a8cb453ac6efad7f5f123c30791dee066dd7fd8f61",
+              "seller": "비누향기#3705",
+              "indexed": "2026-04-17T01:30:28Z",
+              "age_minutes": 228,
+              "price": {
+                "type": "~b/o",
+                "amount": 7,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ruination Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "c1badc8d315fe9e8a1e3839185eeb16c1dc98eec442716104d1f0549b6f4fa45",
+              "seller": "히어료#6927",
+              "indexed": "2026-04-16T13:22:38Z",
+              "age_minutes": 956,
+              "price": {
+                "type": "~b/o",
+                "amount": 9,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ruination Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "3ed781884f0d5ee4e7a35909f5aa4d24bc67aad7341631b963c7fa9cd1f9bd81",
+              "seller": "보호한다#8183",
+              "indexed": "2026-04-16T01:59:50Z",
+              "age_minutes": 1639,
+              "price": {
+                "type": "~b/o",
+                "amount": 10,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ruination Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "3c13f7bb985e3e89e05d03ae590ed420f3dceac58690b04abadbfc9a6aa7f17a",
+              "seller": "yanbillsc3888#8934",
+              "indexed": "2026-04-15T14:20:41Z",
+              "age_minutes": 2338,
+              "price": {
+                "type": "~b/o",
+                "amount": 10,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ruination Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e8fa5fa82acc9cd6412ff3ea98686c693b3201dd50bcbdb793f8d2643c49be9b",
+              "seller": "VCRx#7404",
+              "indexed": "2026-04-17T02:32:55Z",
+              "age_minutes": 165,
+              "price": {
+                "type": "~b/o",
+                "amount": 10,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Ruination Maul",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "f23108a382cf1e68ef42a7a8cb453ac6efad7f5f123c30791dee066dd7fd8f61",
+          "seller": "비누향기#3705",
+          "indexed": "2026-04-17T01:30:28Z",
+          "age_minutes": 228,
+          "price": {
+            "type": "~b/o",
+            "amount": 7,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Ruination Maul",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "c1badc8d315fe9e8a1e3839185eeb16c1dc98eec442716104d1f0549b6f4fa45",
           "seller": "히어료#6927",
           "indexed": "2026-04-16T13:22:38Z",
-          "age_minutes": 716,
+          "age_minutes": 956,
           "price": {
             "type": "~b/o",
             "amount": 9,
@@ -11725,10 +12703,10 @@
           }
         },
         {
-          "listing_id": "36fd9f48e478de29818fd5e16767590282df7e73c717dc96d730f01ce933ade0",
-          "seller": "yanbillsc3888#8934",
-          "indexed": "2026-04-15T14:20:41Z",
-          "age_minutes": 2098,
+          "listing_id": "3ed781884f0d5ee4e7a35909f5aa4d24bc67aad7341631b963c7fa9cd1f9bd81",
+          "seller": "보호한다#8183",
+          "indexed": "2026-04-16T01:59:50Z",
+          "age_minutes": 1639,
           "price": {
             "type": "~b/o",
             "amount": 10,
@@ -11744,7 +12722,7 @@
           "listing_id": "3c13f7bb985e3e89e05d03ae590ed420f3dceac58690b04abadbfc9a6aa7f17a",
           "seller": "yanbillsc3888#8934",
           "indexed": "2026-04-15T14:20:41Z",
-          "age_minutes": 2098,
+          "age_minutes": 2338,
           "price": {
             "type": "~b/o",
             "amount": 10,
@@ -11757,26 +12735,10 @@
           }
         },
         {
-          "listing_id": "0d2c494b3b9612494dedcdf40dce3c999c858bda2ffebc4f7c3a6cab36e58884",
-          "seller": "보호한다#8183",
-          "indexed": "2026-04-16T09:07:00Z",
-          "age_minutes": 971,
-          "price": {
-            "type": "~b/o",
-            "amount": 10,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Ruination Maul",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "f23108a382cf1e68ef42a7a8cb453ac6efad7f5f123c30791dee066dd7fd8f61",
-          "seller": "비누향기#3705",
-          "indexed": "2026-04-16T08:29:26Z",
-          "age_minutes": 1009,
+          "listing_id": "e8fa5fa82acc9cd6412ff3ea98686c693b3201dd50bcbdb793f8d2643c49be9b",
+          "seller": "VCRx#7404",
+          "indexed": "2026-04-17T02:32:55Z",
+          "age_minutes": 165,
           "price": {
             "type": "~b/o",
             "amount": 10,
@@ -11790,13 +12752,13 @@
         }
       ],
       "raw_listing": {
-        "id": "c1badc8d315fe9e8a1e3839185eeb16c1dc98eec442716104d1f0549b6f4fa45",
-        "account": "히어료#6927",
+        "id": "f23108a382cf1e68ef42a7a8cb453ac6efad7f5f123c30791dee066dd7fd8f61",
+        "account": "비누향기#3705",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T13:22:38Z",
+        "indexed": "2026-04-17T01:30:28Z",
         "price": {
           "type": "~b/o",
-          "amount": 9,
+          "amount": 7,
           "currency": "divine"
         },
         "item": {
@@ -11812,13 +12774,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:18:25.605Z",
-      "price_text": "~b/o 85 divine",
-      "seller": "quanghung1995#9127",
+      "fetched_at": "2026-04-17T05:18:32.553Z",
+      "price_text": "~b/o 80 divine",
+      "seller": "Cube#4023",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V69Yduk",
       "error": "",
-      "result_count": 57,
-      "sell_speed": "slow",
+      "result_count": 59,
+      "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:07:59.096Z",
         "2026-04-15T13:17:57.866Z",
@@ -11830,13 +12792,14 @@
         "2026-04-16T13:18:22.425Z",
         "2026-04-16T17:18:23.258Z",
         "2026-04-16T21:18:24.662Z",
-        "2026-04-17T01:18:25.605Z"
+        "2026-04-17T01:18:25.605Z",
+        "2026-04-17T05:18:32.553Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:18:24.662Z",
-        "anchor_6h": "2026-04-16T21:18:24.662Z",
-        "anchor_12h": "2026-04-16T13:18:22.425Z",
-        "anchor_24h": "2026-04-16T01:18:12.001Z",
+        "latest_previous": "2026-04-17T01:18:25.605Z",
+        "anchor_6h": "2026-04-17T01:18:25.605Z",
+        "anchor_12h": "2026-04-16T17:18:23.258Z",
+        "anchor_24h": "2026-04-16T05:18:17.890Z",
         "anchor_48h": "2026-04-15T09:07:59.096Z"
       },
       "history": [
@@ -12818,14 +13781,135 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:18:32.553Z",
+          "result_count": 59,
+          "price_text": "~b/o 80 divine",
+          "seller": "Cube#4023",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "bf8af2b8bcc06a0447d956017eaaa28760b2aacad3e1e5c3c51dc9041e3424b0",
+              "seller": "Cube#4023",
+              "indexed": "2026-04-17T04:54:42Z",
+              "age_minutes": 24,
+              "price": {
+                "type": "~b/o",
+                "amount": 80,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vaal Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "b420553d2970ac4ff61537d6ecda764891365a9c00600253eafbe3dea389f0a8",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T02:41:39Z",
+              "age_minutes": 157,
+              "price": {
+                "type": "~b/o",
+                "amount": 84,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vaal Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "ca84b2c3e49ebefcbe7a8ef812cff894492d2a2ac946a35bcc3f2636c7eb05c8",
+              "seller": "quanghung1995#9127",
+              "indexed": "2026-04-17T00:13:04Z",
+              "age_minutes": 305,
+              "price": {
+                "type": "~b/o",
+                "amount": 85,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vaal Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "56eaef08ba89ffb351c1ee81e86e681cdeb522d5644eef9ebc3cc63b0a16eee2",
+              "seller": "RijikoT#4361",
+              "indexed": "2026-04-16T18:25:02Z",
+              "age_minutes": 654,
+              "price": {
+                "type": "~b/o",
+                "amount": 87,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vaal Gloves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4d790a29925718a96d10f747d1ef86b4706cc64d08013e7aeda90d4ecca6ad3f",
+              "seller": "보호한다#8183",
+              "indexed": "2026-04-16T13:25:00Z",
+              "age_minutes": 954,
+              "price": {
+                "type": "~b/o",
+                "amount": 89,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Vaal Gloves",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "bf8af2b8bcc06a0447d956017eaaa28760b2aacad3e1e5c3c51dc9041e3424b0",
+          "seller": "Cube#4023",
+          "indexed": "2026-04-17T04:54:42Z",
+          "age_minutes": 24,
+          "price": {
+            "type": "~b/o",
+            "amount": 80,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Vaal Gloves",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "b420553d2970ac4ff61537d6ecda764891365a9c00600253eafbe3dea389f0a8",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T02:41:39Z",
+          "age_minutes": 157,
+          "price": {
+            "type": "~b/o",
+            "amount": 84,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Vaal Gloves",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "ca84b2c3e49ebefcbe7a8ef812cff894492d2a2ac946a35bcc3f2636c7eb05c8",
           "seller": "quanghung1995#9127",
           "indexed": "2026-04-17T00:13:04Z",
-          "age_minutes": 65,
+          "age_minutes": 305,
           "price": {
             "type": "~b/o",
             "amount": 85,
@@ -12841,7 +13925,7 @@
           "listing_id": "56eaef08ba89ffb351c1ee81e86e681cdeb522d5644eef9ebc3cc63b0a16eee2",
           "seller": "RijikoT#4361",
           "indexed": "2026-04-16T18:25:02Z",
-          "age_minutes": 413,
+          "age_minutes": 654,
           "price": {
             "type": "~b/o",
             "amount": 87,
@@ -12857,7 +13941,7 @@
           "listing_id": "4d790a29925718a96d10f747d1ef86b4706cc64d08013e7aeda90d4ecca6ad3f",
           "seller": "보호한다#8183",
           "indexed": "2026-04-16T13:25:00Z",
-          "age_minutes": 713,
+          "age_minutes": 954,
           "price": {
             "type": "~b/o",
             "amount": 89,
@@ -12868,48 +13952,16 @@
             "typeLine": "Exceptional Vaal Gloves",
             "name": ""
           }
-        },
-        {
-          "listing_id": "2efe2221108fccc38215fea53ac10545c3a733eb9273a99131ff09f535a1cd91",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 536,
-          "price": {
-            "type": "~b/o",
-            "amount": 90,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Vaal Gloves",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "576aa24a1534906e60d320a40d338456ad3fb6c5772f19d96858f9125d0727ea",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-14T17:15:18Z",
-          "age_minutes": 3363,
-          "price": {
-            "type": "~b/o",
-            "amount": 90,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Vaal Gloves",
-            "name": ""
-          }
         }
       ],
       "raw_listing": {
-        "id": "ca84b2c3e49ebefcbe7a8ef812cff894492d2a2ac946a35bcc3f2636c7eb05c8",
-        "account": "quanghung1995#9127",
+        "id": "bf8af2b8bcc06a0447d956017eaaa28760b2aacad3e1e5c3c51dc9041e3424b0",
+        "account": "Cube#4023",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:13:04Z",
+        "indexed": "2026-04-17T04:54:42Z",
         "price": {
           "type": "~b/o",
-          "amount": 85,
+          "amount": 80,
           "currency": "divine"
         },
         "item": {
@@ -12925,13 +13977,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:19:56.329Z",
-      "price_text": "~b/o 75 divine",
-      "seller": "hocmaimavanngu#6630",
+      "fetched_at": "2026-04-17T05:20:03.690Z",
+      "price_text": "~b/o 480 divine",
+      "seller": "Cube#4023",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/zboLyo6LF4",
       "error": "",
-      "result_count": 3,
-      "sell_speed": "medium",
+      "result_count": 10,
+      "sell_speed": "fast",
       "snapshot_dates": [
         "2026-04-15T09:09:29.876Z",
         "2026-04-15T13:19:28.594Z",
@@ -12943,13 +13995,14 @@
         "2026-04-16T13:19:53.173Z",
         "2026-04-16T17:19:54.010Z",
         "2026-04-16T21:19:55.406Z",
-        "2026-04-17T01:19:56.329Z"
+        "2026-04-17T01:19:56.329Z",
+        "2026-04-17T05:20:03.690Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:19:55.406Z",
-        "anchor_6h": "2026-04-16T21:19:55.406Z",
-        "anchor_12h": "2026-04-16T13:19:53.173Z",
-        "anchor_24h": "2026-04-16T01:19:42.757Z",
+        "latest_previous": "2026-04-17T01:19:56.329Z",
+        "anchor_6h": "2026-04-17T01:19:56.329Z",
+        "anchor_12h": "2026-04-16T17:19:54.010Z",
+        "anchor_24h": "2026-04-16T05:19:48.648Z",
         "anchor_48h": "2026-04-15T09:09:29.876Z"
       },
       "history": [
@@ -13883,17 +14936,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:20:03.690Z",
+          "result_count": 10,
+          "price_text": "~b/o 480 divine",
+          "seller": "Cube#4023",
+          "sell_speed": "fast",
+          "top_listings": [
+            {
+              "listing_id": "fbe5f4bd9c2bf6b0e854ae5865a77aea87099fc33c2e517cfc8c053a814616e2",
+              "seller": "Cube#4023",
+              "indexed": "2026-04-17T04:54:42Z",
+              "age_minutes": 25,
+              "price": {
+                "type": "~b/o",
+                "amount": 480,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Tasalian Greaves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "726a8aaf833b3fc3f4a69a874425bf291962cb285592fb11ae220b4d32215e50",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:25:31Z",
+              "age_minutes": 235,
+              "price": {
+                "type": "~b/o",
+                "amount": 499,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Tasalian Greaves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "1f22f103e2dea3ab33e560fd936097f6b5ded3c8e533074b106242f775f3a062",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:25:31Z",
+              "age_minutes": 235,
+              "price": {
+                "type": "~b/o",
+                "amount": 499,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Tasalian Greaves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "19f9a67f18bf0629147d99d84ed45bf97027728ff1256c386f99d177ff1f2ee3",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:54:48Z",
+              "age_minutes": 205,
+              "price": {
+                "type": "~b/o",
+                "amount": 499,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Tasalian Greaves",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "30d1c87b6cafd49bf10b663c9310f0ec9c80f56a803487cd1dab3ab6506411bd",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:25:31Z",
+              "age_minutes": 235,
+              "price": {
+                "type": "~b/o",
+                "amount": 499,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Tasalian Greaves",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "9393dc2174879d7e354cae0d2dcb4b8d7c46f1c6b8ad28b98b0813196abbfd61",
-          "seller": "hocmaimavanngu#6630",
-          "indexed": "2026-04-16T07:28:15Z",
-          "age_minutes": 1072,
+          "listing_id": "fbe5f4bd9c2bf6b0e854ae5865a77aea87099fc33c2e517cfc8c053a814616e2",
+          "seller": "Cube#4023",
+          "indexed": "2026-04-17T04:54:42Z",
+          "age_minutes": 25,
           "price": {
             "type": "~b/o",
-            "amount": 75,
+            "amount": 480,
             "currency": "divine"
           },
           "item": {
@@ -13903,30 +15045,62 @@
           }
         },
         {
-          "listing_id": "0acbfe76d685942d6b0b484c77238abf864d5672490e4976451d033927e044f9",
-          "seller": "Wujusamozlo#0610",
-          "indexed": "2026-04-16T13:00:05Z",
-          "age_minutes": 740,
+          "listing_id": "726a8aaf833b3fc3f4a69a874425bf291962cb285592fb11ae220b4d32215e50",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:25:31Z",
+          "age_minutes": 235,
           "price": {
             "type": "~b/o",
-            "amount": 500,
+            "amount": 499,
             "currency": "divine"
           },
           "item": {
-            "ilvl": 83,
+            "ilvl": 82,
             "typeLine": "Exceptional Tasalian Greaves",
             "name": ""
           }
         },
         {
-          "listing_id": "880b686963b483e4a7eaca34f5b5e26713b6558f772c3d4eebdd0547850dedd4",
-          "seller": "MummyRoad#7627",
-          "indexed": "2026-04-16T19:15:42Z",
-          "age_minutes": 364,
+          "listing_id": "1f22f103e2dea3ab33e560fd936097f6b5ded3c8e533074b106242f775f3a062",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:25:31Z",
+          "age_minutes": 235,
           "price": {
             "type": "~b/o",
-            "amount": 1,
-            "currency": "mirror"
+            "amount": 499,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Tasalian Greaves",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "19f9a67f18bf0629147d99d84ed45bf97027728ff1256c386f99d177ff1f2ee3",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:54:48Z",
+          "age_minutes": 205,
+          "price": {
+            "type": "~b/o",
+            "amount": 499,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Tasalian Greaves",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "30d1c87b6cafd49bf10b663c9310f0ec9c80f56a803487cd1dab3ab6506411bd",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:25:31Z",
+          "age_minutes": 235,
+          "price": {
+            "type": "~b/o",
+            "amount": 499,
+            "currency": "divine"
           },
           "item": {
             "ilvl": 82,
@@ -13936,13 +15110,13 @@
         }
       ],
       "raw_listing": {
-        "id": "9393dc2174879d7e354cae0d2dcb4b8d7c46f1c6b8ad28b98b0813196abbfd61",
-        "account": "hocmaimavanngu#6630",
+        "id": "fbe5f4bd9c2bf6b0e854ae5865a77aea87099fc33c2e517cfc8c053a814616e2",
+        "account": "Cube#4023",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T07:28:15Z",
+        "indexed": "2026-04-17T04:54:42Z",
         "price": {
           "type": "~b/o",
-          "amount": 75,
+          "amount": 480,
           "currency": "divine"
         },
         "item": {
@@ -13958,12 +15132,12 @@
       "notes": "5% increased Movement Speed",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:20:07.074Z",
-      "price_text": "~b/o 280 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:20:14.444Z",
+      "price_text": "~b/o 272 divine",
+      "seller": "Taiproqn0990#8632",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/jWJno45ZhX",
       "error": "",
-      "result_count": 34,
+      "result_count": 35,
       "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:09:40.663Z",
@@ -13976,13 +15150,14 @@
         "2026-04-16T13:20:03.945Z",
         "2026-04-16T17:20:04.775Z",
         "2026-04-16T21:20:06.166Z",
-        "2026-04-17T01:20:07.074Z"
+        "2026-04-17T01:20:07.074Z",
+        "2026-04-17T05:20:14.444Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:20:06.166Z",
-        "anchor_6h": "2026-04-16T21:20:06.166Z",
-        "anchor_12h": "2026-04-16T13:20:03.945Z",
-        "anchor_24h": "2026-04-16T01:19:53.801Z",
+        "latest_previous": "2026-04-17T01:20:07.074Z",
+        "anchor_6h": "2026-04-17T01:20:07.074Z",
+        "anchor_12h": "2026-04-16T17:20:04.775Z",
+        "anchor_24h": "2026-04-16T05:19:59.427Z",
         "anchor_48h": "2026-04-15T09:09:40.663Z"
       },
       "history": [
@@ -14964,14 +16139,151 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:20:14.444Z",
+          "result_count": 35,
+          "price_text": "~b/o 272 divine",
+          "seller": "Taiproqn0990#8632",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "978f421f4da4b25526fa7351e5fee5338d3f9bf622d161ea6ed97489a80c67b5",
+              "seller": "Taiproqn0990#8632",
+              "indexed": "2026-04-17T02:29:43Z",
+              "age_minutes": 171,
+              "price": {
+                "type": "~b/o",
+                "amount": 272,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Falconer's Jacket",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "7573618b47a69d956c998028b9392cd41d373156913797808554579b936302ba",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:54:48Z",
+              "age_minutes": 205,
+              "price": {
+                "type": "~b/o",
+                "amount": 274,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Falconer's Jacket",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "67bcb55be9962ca9a4ff3e279eea896c2a4f7c53f37c3d62b2fb4f1ab262d076",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T01:42:03Z",
+              "age_minutes": 218,
+              "price": {
+                "type": "~b/o",
+                "amount": 274,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Falconer's Jacket",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "f3a1b182156abef493f08a729cf4d5b4e48b45d724777afab6a98676d4b651a5",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:42:33Z",
+              "age_minutes": 278,
+              "price": {
+                "type": "~b/o",
+                "amount": 280,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Falconer's Jacket",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "083a26c5e98ea3104577a9c5e5ed59784fe71d335a3e31cbc49db164eac55e1e",
+              "seller": "quanghung1995#9127",
+              "indexed": "2026-04-16T22:25:19Z",
+              "age_minutes": 415,
+              "price": {
+                "type": "~b/o",
+                "amount": 300,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Falconer's Jacket",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "978f421f4da4b25526fa7351e5fee5338d3f9bf622d161ea6ed97489a80c67b5",
+          "seller": "Taiproqn0990#8632",
+          "indexed": "2026-04-17T02:29:43Z",
+          "age_minutes": 171,
+          "price": {
+            "type": "~b/o",
+            "amount": 272,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Falconer's Jacket",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "7573618b47a69d956c998028b9392cd41d373156913797808554579b936302ba",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:54:48Z",
+          "age_minutes": 205,
+          "price": {
+            "type": "~b/o",
+            "amount": 274,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Falconer's Jacket",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "67bcb55be9962ca9a4ff3e279eea896c2a4f7c53f37c3d62b2fb4f1ab262d076",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T01:42:03Z",
+          "age_minutes": 218,
+          "price": {
+            "type": "~b/o",
+            "amount": 274,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Falconer's Jacket",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "f3a1b182156abef493f08a729cf4d5b4e48b45d724777afab6a98676d4b651a5",
           "seller": "long191120#7960",
           "indexed": "2026-04-17T00:42:33Z",
-          "age_minutes": 38,
+          "age_minutes": 278,
           "price": {
             "type": "~b/o",
             "amount": 280,
@@ -14984,61 +16296,13 @@
           }
         },
         {
-          "listing_id": "bfe5e54e15d2f3361e377944ce24f028a6576cb2f3bf74baf012966454187a79",
-          "seller": "quanghung1995#9127",
-          "indexed": "2026-04-16T20:50:08Z",
-          "age_minutes": 270,
-          "price": {
-            "type": "~b/o",
-            "amount": 300,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Falconer's Jacket",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "083a26c5e98ea3104577a9c5e5ed59784fe71d335a3e31cbc49db164eac55e1e",
           "seller": "quanghung1995#9127",
           "indexed": "2026-04-16T22:25:19Z",
-          "age_minutes": 175,
+          "age_minutes": 415,
           "price": {
             "type": "~b/o",
             "amount": 300,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Falconer's Jacket",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "c0c778730f856532c7bacdd2b072748148534d31166f04f6580f53a26f01ac36",
-          "seller": "woo3d#7495",
-          "indexed": "2026-04-16T19:22:03Z",
-          "age_minutes": 358,
-          "price": {
-            "type": "~b/o",
-            "amount": 320,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Falconer's Jacket",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "67bcb55be9962ca9a4ff3e279eea896c2a4f7c53f37c3d62b2fb4f1ab262d076",
-          "seller": "phunghuuhien1990#6964",
-          "indexed": "2026-04-16T15:41:43Z",
-          "age_minutes": 578,
-          "price": {
-            "type": "~b/o",
-            "amount": 330,
             "currency": "divine"
           },
           "item": {
@@ -15049,13 +16313,13 @@
         }
       ],
       "raw_listing": {
-        "id": "f3a1b182156abef493f08a729cf4d5b4e48b45d724777afab6a98676d4b651a5",
-        "account": "long191120#7960",
+        "id": "978f421f4da4b25526fa7351e5fee5338d3f9bf622d161ea6ed97489a80c67b5",
+        "account": "Taiproqn0990#8632",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:42:33Z",
+        "indexed": "2026-04-17T02:29:43Z",
         "price": {
           "type": "~b/o",
-          "amount": 280,
+          "amount": 272,
           "currency": "divine"
         },
         "item": {
@@ -15071,12 +16335,12 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:20:17.880Z",
-      "price_text": "~b/o 55 divine",
-      "seller": "AriHaru5555#3008",
+      "fetched_at": "2026-04-17T05:20:25.211Z",
+      "price_text": "~b/o 54 divine",
+      "seller": "Conif#2444",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/vejr2azDSE",
       "error": "",
-      "result_count": 36,
+      "result_count": 38,
       "sell_speed": "slow",
       "snapshot_dates": [
         "2026-04-15T09:09:51.495Z",
@@ -15089,13 +16353,14 @@
         "2026-04-16T13:20:14.744Z",
         "2026-04-16T17:20:15.589Z",
         "2026-04-16T21:20:16.893Z",
-        "2026-04-17T01:20:17.880Z"
+        "2026-04-17T01:20:17.880Z",
+        "2026-04-17T05:20:25.211Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:20:16.893Z",
-        "anchor_6h": "2026-04-16T21:20:16.893Z",
-        "anchor_12h": "2026-04-16T13:20:14.744Z",
-        "anchor_24h": "2026-04-16T01:20:04.537Z",
+        "latest_previous": "2026-04-17T01:20:17.880Z",
+        "anchor_6h": "2026-04-17T01:20:17.880Z",
+        "anchor_12h": "2026-04-16T17:20:15.589Z",
+        "anchor_24h": "2026-04-16T05:20:10.241Z",
         "anchor_48h": "2026-04-15T09:09:51.495Z"
       },
       "history": [
@@ -16077,14 +17342,119 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:20:25.211Z",
+          "result_count": 38,
+          "price_text": "~b/o 54 divine",
+          "seller": "Conif#2444",
+          "sell_speed": "slow",
+          "top_listings": [
+            {
+              "listing_id": "4aff665df82d3057f008d8774a8ca45dc85256e7fc4c719cbe2a5cd687d9ae7d",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T01:54:48Z",
+              "age_minutes": 206,
+              "price": {
+                "type": "~b/o",
+                "amount": 54,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Soldier Cuirass",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4b28df5beb896346a6bcf3463015243617785387a1a6651c1e8e375029128af5",
+              "seller": "AriHaru5555#3008",
+              "indexed": "2026-04-17T00:54:57Z",
+              "age_minutes": 265,
+              "price": {
+                "type": "~b/o",
+                "amount": 55,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Soldier Cuirass",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4de0ad018b7d551b939dbb5f6913a6901ca3bd3910c58652db8fa1db082c2860",
+              "seller": "1993duongducnamson#8288",
+              "indexed": "2026-04-13T02:04:18Z",
+              "age_minutes": 5956,
+              "price": {
+                "type": "~b/o",
+                "amount": 62,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Soldier Cuirass",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "b4bce7dce1bfe75981a788e00b0a7970ebfaa1cdc3fc751ae7985c79f6d59b0d",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:34:46Z",
+              "age_minutes": 286,
+              "price": {
+                "type": "~b/o",
+                "amount": 65,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Soldier Cuirass",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "2cf4e60b24d9fc9f48f34433381f5f3137fe817c2727f5e8b55372fe0cb5b3f5",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:34:46Z",
+              "age_minutes": 286,
+              "price": {
+                "type": "~b/o",
+                "amount": 65,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Soldier Cuirass",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "4aff665df82d3057f008d8774a8ca45dc85256e7fc4c719cbe2a5cd687d9ae7d",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T01:54:48Z",
+          "age_minutes": 206,
+          "price": {
+            "type": "~b/o",
+            "amount": 54,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Soldier Cuirass",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "4b28df5beb896346a6bcf3463015243617785387a1a6651c1e8e375029128af5",
           "seller": "AriHaru5555#3008",
           "indexed": "2026-04-17T00:54:57Z",
-          "age_minutes": 25,
+          "age_minutes": 265,
           "price": {
             "type": "~b/o",
             "amount": 55,
@@ -16100,7 +17470,7 @@
           "listing_id": "4de0ad018b7d551b939dbb5f6913a6901ca3bd3910c58652db8fa1db082c2860",
           "seller": "1993duongducnamson#8288",
           "indexed": "2026-04-13T02:04:18Z",
-          "age_minutes": 5716,
+          "age_minutes": 5956,
           "price": {
             "type": "~b/o",
             "amount": 62,
@@ -16113,42 +17483,26 @@
           }
         },
         {
-          "listing_id": "2cf4e60b24d9fc9f48f34433381f5f3137fe817c2727f5e8b55372fe0cb5b3f5",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:34:46Z",
-          "age_minutes": 46,
-          "price": {
-            "type": "~b/o",
-            "amount": 65,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Soldier Cuirass",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "5f90185acff63fb63e1d64a30216646161f3ede4581c3e06aff8ae8fa2775959",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:34:46Z",
-          "age_minutes": 46,
-          "price": {
-            "type": "~b/o",
-            "amount": 65,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Soldier Cuirass",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "b4bce7dce1bfe75981a788e00b0a7970ebfaa1cdc3fc751ae7985c79f6d59b0d",
           "seller": "long191120#7960",
           "indexed": "2026-04-17T00:34:46Z",
-          "age_minutes": 46,
+          "age_minutes": 286,
+          "price": {
+            "type": "~b/o",
+            "amount": 65,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Soldier Cuirass",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "2cf4e60b24d9fc9f48f34433381f5f3137fe817c2727f5e8b55372fe0cb5b3f5",
+          "seller": "long191120#7960",
+          "indexed": "2026-04-17T00:34:46Z",
+          "age_minutes": 286,
           "price": {
             "type": "~b/o",
             "amount": 65,
@@ -16162,13 +17516,13 @@
         }
       ],
       "raw_listing": {
-        "id": "4b28df5beb896346a6bcf3463015243617785387a1a6651c1e8e375029128af5",
-        "account": "AriHaru5555#3008",
+        "id": "4aff665df82d3057f008d8774a8ca45dc85256e7fc4c719cbe2a5cd687d9ae7d",
+        "account": "Conif#2444",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:54:57Z",
+        "indexed": "2026-04-17T01:54:48Z",
         "price": {
           "type": "~b/o",
-          "amount": 55,
+          "amount": 54,
           "currency": "divine"
         },
         "item": {
@@ -16184,9 +17538,9 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:21:48.629Z",
-      "price_text": "~b/o 95 divine",
-      "seller": "Longmirdrop#5046",
+      "fetched_at": "2026-04-17T05:21:55.963Z",
+      "price_text": "~b/o 94 divine",
+      "seller": "phunghuuhien1990#6964",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/Lg2prQQ2Tn",
       "error": "",
       "result_count": 25,
@@ -16202,13 +17556,14 @@
         "2026-04-16T13:21:45.498Z",
         "2026-04-16T17:21:46.330Z",
         "2026-04-16T21:21:47.655Z",
-        "2026-04-17T01:21:48.629Z"
+        "2026-04-17T01:21:48.629Z",
+        "2026-04-17T05:21:55.963Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:21:47.655Z",
-        "anchor_6h": "2026-04-16T21:21:47.655Z",
-        "anchor_12h": "2026-04-16T13:21:45.498Z",
-        "anchor_24h": "2026-04-16T01:21:35.274Z",
+        "latest_previous": "2026-04-17T01:21:48.629Z",
+        "anchor_6h": "2026-04-17T01:21:48.629Z",
+        "anchor_12h": "2026-04-16T17:21:46.330Z",
+        "anchor_24h": "2026-04-16T05:21:40.980Z",
         "anchor_48h": "2026-04-15T09:11:22.259Z"
       },
       "history": [
@@ -17190,14 +18545,119 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:21:55.963Z",
+          "result_count": 25,
+          "price_text": "~b/o 94 divine",
+          "seller": "phunghuuhien1990#6964",
+          "sell_speed": "slow",
+          "top_listings": [
+            {
+              "listing_id": "ae1138cb2c4de102ba06472908b4553eea67ba5d65c20eb9dc50785e7bda3964",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-17T01:41:44Z",
+              "age_minutes": 220,
+              "price": {
+                "type": "~b/o",
+                "amount": 94,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "f1920ef90bb9680650605a6e9182bfa82e4438105add88857fbbed59a0c51e5e",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T16:22:22Z",
+              "age_minutes": 780,
+              "price": {
+                "type": "~b/o",
+                "amount": 95,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "9e665ceccfc619afa1ad6b7504c1a71fca4eecc84a4fef4db2c65009cb9e906e",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T16:22:22Z",
+              "age_minutes": 780,
+              "price": {
+                "type": "~b/o",
+                "amount": 95,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "128f753b4d301a0c5432f63eedfa1052f55533c1cdc86fbcbbc5c184e6f19542",
+              "seller": "BIGONE#6048",
+              "indexed": "2026-04-16T03:25:27Z",
+              "age_minutes": 1556,
+              "price": {
+                "type": "~b/o",
+                "amount": 98,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Maul",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "cb9a4cb030f38c461d90f2f435e599a977bcf57f76bf903628879d4f67764a94",
+              "seller": "보호한다#8183",
+              "indexed": "2026-04-16T02:01:43Z",
+              "age_minutes": 1640,
+              "price": {
+                "type": "~b/o",
+                "amount": 98,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Maul",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "ae1138cb2c4de102ba06472908b4553eea67ba5d65c20eb9dc50785e7bda3964",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-17T01:41:44Z",
+          "age_minutes": 220,
+          "price": {
+            "type": "~b/o",
+            "amount": 94,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sacred Maul",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "f1920ef90bb9680650605a6e9182bfa82e4438105add88857fbbed59a0c51e5e",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 539,
+          "age_minutes": 780,
           "price": {
             "type": "~b/o",
             "amount": 95,
@@ -17213,7 +18673,7 @@
           "listing_id": "9e665ceccfc619afa1ad6b7504c1a71fca4eecc84a4fef4db2c65009cb9e906e",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 539,
+          "age_minutes": 780,
           "price": {
             "type": "~b/o",
             "amount": 95,
@@ -17226,26 +18686,10 @@
           }
         },
         {
-          "listing_id": "cb9a4cb030f38c461d90f2f435e599a977bcf57f76bf903628879d4f67764a94",
-          "seller": "보호한다#8183",
-          "indexed": "2026-04-16T02:01:43Z",
-          "age_minutes": 1400,
-          "price": {
-            "type": "~b/o",
-            "amount": 98,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sacred Maul",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "128f753b4d301a0c5432f63eedfa1052f55533c1cdc86fbcbbc5c184e6f19542",
           "seller": "BIGONE#6048",
           "indexed": "2026-04-16T03:25:27Z",
-          "age_minutes": 1316,
+          "age_minutes": 1556,
           "price": {
             "type": "~b/o",
             "amount": 98,
@@ -17258,13 +18702,13 @@
           }
         },
         {
-          "listing_id": "ae1138cb2c4de102ba06472908b4553eea67ba5d65c20eb9dc50785e7bda3964",
-          "seller": "phunghuuhien1990#6964",
-          "indexed": "2026-04-14T17:18:51Z",
-          "age_minutes": 3363,
+          "listing_id": "cb9a4cb030f38c461d90f2f435e599a977bcf57f76bf903628879d4f67764a94",
+          "seller": "보호한다#8183",
+          "indexed": "2026-04-16T02:01:43Z",
+          "age_minutes": 1640,
           "price": {
             "type": "~b/o",
-            "amount": 99,
+            "amount": 98,
             "currency": "divine"
           },
           "item": {
@@ -17275,13 +18719,13 @@
         }
       ],
       "raw_listing": {
-        "id": "f1920ef90bb9680650605a6e9182bfa82e4438105add88857fbbed59a0c51e5e",
-        "account": "Longmirdrop#5046",
+        "id": "ae1138cb2c4de102ba06472908b4553eea67ba5d65c20eb9dc50785e7bda3964",
+        "account": "phunghuuhien1990#6964",
         "lastCharacterName": "",
-        "indexed": "2026-04-16T16:22:22Z",
+        "indexed": "2026-04-17T01:41:44Z",
         "price": {
           "type": "~b/o",
-          "amount": 95,
+          "amount": 94,
           "currency": "divine"
         },
         "item": {
@@ -17297,12 +18741,12 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:21:59.377Z",
+      "fetched_at": "2026-04-17T05:22:06.704Z",
       "price_text": "~b/o 37 divine",
       "seller": "Conif#2444",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/2K9V6yjVSk",
       "error": "",
-      "result_count": 38,
+      "result_count": 35,
       "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:11:33.040Z",
@@ -17315,13 +18759,14 @@
         "2026-04-16T13:21:56.246Z",
         "2026-04-16T17:21:57.047Z",
         "2026-04-16T21:21:58.423Z",
-        "2026-04-17T01:21:59.377Z"
+        "2026-04-17T01:21:59.377Z",
+        "2026-04-17T05:22:06.704Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:21:58.423Z",
-        "anchor_6h": "2026-04-16T21:21:58.423Z",
-        "anchor_12h": "2026-04-16T13:21:56.246Z",
-        "anchor_24h": "2026-04-16T01:21:46.020Z",
+        "latest_previous": "2026-04-17T01:21:59.377Z",
+        "anchor_6h": "2026-04-17T01:21:59.377Z",
+        "anchor_12h": "2026-04-16T17:21:57.047Z",
+        "anchor_24h": "2026-04-16T05:21:51.723Z",
         "anchor_48h": "2026-04-15T09:11:33.040Z"
       },
       "history": [
@@ -18303,49 +19748,106 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:22:06.704Z",
+          "result_count": 35,
+          "price_text": "~b/o 37 divine",
+          "seller": "Conif#2444",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "13b0b7d0a0279ad30ad938332f890e53e15ccadd733bfcde594c9d3ee7d627e0",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T02:01:02Z",
+              "age_minutes": 201,
+              "price": {
+                "type": "~b/o",
+                "amount": 37,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Focus",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "bac6cdbb2cc4a94025b18a77b0e39b177f444e4d96d2f6fb05bc9b8d6259f963",
+              "seller": "woo3d#7495",
+              "indexed": "2026-04-16T16:29:31Z",
+              "age_minutes": 773,
+              "price": {
+                "type": "~b/o",
+                "amount": 40,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 83,
+                "typeLine": "Exceptional Sacred Focus",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "28f97fe0a9cce732397a4c305debb0f0eeae57e687e3abf2b20ded9fb5bd0873",
+              "seller": "phunghuuhien1990#6964",
+              "indexed": "2026-04-16T09:17:29Z",
+              "age_minutes": 1205,
+              "price": {
+                "type": "~b/o",
+                "amount": 47,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Focus",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "a54135d8d398c9aeddb6aab33bcc4ca5b45102b79187a82da90728f7298c5d3a",
+              "seller": "dogstar#9816",
+              "indexed": "2026-04-16T09:18:08Z",
+              "age_minutes": 1204,
+              "price": {
+                "type": "~b/o",
+                "amount": 48,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Focus",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "0be6631987466578d05186d811e11b39499be46aa09fbb9f1cc758f790541075",
+              "seller": "Kogo#6560",
+              "indexed": "2026-04-16T03:57:07Z",
+              "age_minutes": 1525,
+              "price": {
+                "type": "~b/o",
+                "amount": 53,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Sacred Focus",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
           "listing_id": "13b0b7d0a0279ad30ad938332f890e53e15ccadd733bfcde594c9d3ee7d627e0",
           "seller": "Conif#2444",
-          "indexed": "2026-04-17T01:18:10Z",
-          "age_minutes": 4,
+          "indexed": "2026-04-17T02:01:02Z",
+          "age_minutes": 201,
           "price": {
             "type": "~b/o",
             "amount": 37,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sacred Focus",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "4c11e933a58578790342b95bf5bbff207c7f78fe746f1de7e804911c0542c82c",
-          "seller": "Conif#2444",
-          "indexed": "2026-04-17T01:18:10Z",
-          "age_minutes": 4,
-          "price": {
-            "type": "~b/o",
-            "amount": 37,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Sacred Focus",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "8e220e4d7629ff19830050f3eb14f55846275c7821ea5dcd6f83baa974896f7f",
-          "seller": "long191120#7960",
-          "indexed": "2026-04-17T00:41:53Z",
-          "age_minutes": 40,
-          "price": {
-            "type": "~b/o",
-            "amount": 38,
             "currency": "divine"
           },
           "item": {
@@ -18358,7 +19860,7 @@
           "listing_id": "bac6cdbb2cc4a94025b18a77b0e39b177f444e4d96d2f6fb05bc9b8d6259f963",
           "seller": "woo3d#7495",
           "indexed": "2026-04-16T16:29:31Z",
-          "age_minutes": 532,
+          "age_minutes": 773,
           "price": {
             "type": "~b/o",
             "amount": 40,
@@ -18371,13 +19873,45 @@
           }
         },
         {
-          "listing_id": "c2e043901f559da83e66aa6f148c68ff3b076d77e1f6bdcb1b8997310d0ba39d",
-          "seller": "Taiproqn0990#8632",
-          "indexed": "2026-04-16T15:38:26Z",
-          "age_minutes": 584,
+          "listing_id": "28f97fe0a9cce732397a4c305debb0f0eeae57e687e3abf2b20ded9fb5bd0873",
+          "seller": "phunghuuhien1990#6964",
+          "indexed": "2026-04-16T09:17:29Z",
+          "age_minutes": 1205,
           "price": {
             "type": "~b/o",
-            "amount": 40,
+            "amount": 47,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sacred Focus",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "a54135d8d398c9aeddb6aab33bcc4ca5b45102b79187a82da90728f7298c5d3a",
+          "seller": "dogstar#9816",
+          "indexed": "2026-04-16T09:18:08Z",
+          "age_minutes": 1204,
+          "price": {
+            "type": "~b/o",
+            "amount": 48,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Sacred Focus",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "0be6631987466578d05186d811e11b39499be46aa09fbb9f1cc758f790541075",
+          "seller": "Kogo#6560",
+          "indexed": "2026-04-16T03:57:07Z",
+          "age_minutes": 1525,
+          "price": {
+            "type": "~b/o",
+            "amount": 53,
             "currency": "divine"
           },
           "item": {
@@ -18391,7 +19925,7 @@
         "id": "13b0b7d0a0279ad30ad938332f890e53e15ccadd733bfcde594c9d3ee7d627e0",
         "account": "Conif#2444",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T01:18:10Z",
+        "indexed": "2026-04-17T02:01:02Z",
         "price": {
           "type": "~b/o",
           "amount": 37,
@@ -18410,13 +19944,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:22:10.157Z",
-      "price_text": "~b/o 24 divine",
-      "seller": "long191120#7960",
+      "fetched_at": "2026-04-17T05:22:17.433Z",
+      "price_text": "~b/o 22 divine",
+      "seller": "테이크홉#7552",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/JByvpGWail",
       "error": "",
-      "result_count": 43,
-      "sell_speed": "fast",
+      "result_count": 45,
+      "sell_speed": "medium",
       "snapshot_dates": [
         "2026-04-15T09:11:43.799Z",
         "2026-04-15T13:21:42.235Z",
@@ -18428,13 +19962,14 @@
         "2026-04-16T13:22:07.055Z",
         "2026-04-16T17:22:07.767Z",
         "2026-04-16T21:22:09.184Z",
-        "2026-04-17T01:22:10.157Z"
+        "2026-04-17T01:22:10.157Z",
+        "2026-04-17T05:22:17.433Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:22:09.184Z",
-        "anchor_6h": "2026-04-16T21:22:09.184Z",
-        "anchor_12h": "2026-04-16T13:22:07.055Z",
-        "anchor_24h": "2026-04-16T01:21:56.743Z",
+        "latest_previous": "2026-04-17T01:22:10.157Z",
+        "anchor_6h": "2026-04-17T01:22:10.157Z",
+        "anchor_12h": "2026-04-16T17:22:07.767Z",
+        "anchor_24h": "2026-04-16T05:22:02.477Z",
         "anchor_48h": "2026-04-15T09:11:43.799Z"
       },
       "history": [
@@ -19416,14 +20951,135 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:22:17.433Z",
+          "result_count": 45,
+          "price_text": "~b/o 22 divine",
+          "seller": "테이크홉#7552",
+          "sell_speed": "medium",
+          "top_listings": [
+            {
+              "listing_id": "850a75a39e2f2cc026fd071387ef8182f9efad5cfd23941e5dafd45c74ba4a8f",
+              "seller": "테이크홉#7552",
+              "indexed": "2026-04-17T04:35:59Z",
+              "age_minutes": 46,
+              "price": {
+                "type": "~b/o",
+                "amount": 22,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Cryptic Leggings",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "e80f5f4e1966e5b732434ff0ce263df0081cc09f2ca6e2b0082f026fc80f9075",
+              "seller": "Conif#2444",
+              "indexed": "2026-04-17T02:01:02Z",
+              "age_minutes": 201,
+              "price": {
+                "type": "~b/o",
+                "amount": 23,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Cryptic Leggings",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "4e62ab392f72b066e4235efb4551da14fb7f4611d7f5f7ff2bfc91d41ab4fe58",
+              "seller": "long191120#7960",
+              "indexed": "2026-04-17T00:41:00Z",
+              "age_minutes": 281,
+              "price": {
+                "type": "~b/o",
+                "amount": 24,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Cryptic Leggings",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "a9480b1451ad0bece33fdb7c3f2c789c8ad3cd5ef029580d6075fbbe188117f3",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-14T13:54:22Z",
+              "age_minutes": 3808,
+              "price": {
+                "type": "~b/o",
+                "amount": 25,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Cryptic Leggings",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "5c0ed1193f8b5b4409d70c67809df3afcac466a231e65131b86e5404190ac198",
+              "seller": "Longmirdrop#5046",
+              "indexed": "2026-04-16T16:22:22Z",
+              "age_minutes": 780,
+              "price": {
+                "type": "~b/o",
+                "amount": 25,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 83,
+                "typeLine": "Exceptional Cryptic Leggings",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
+          "listing_id": "850a75a39e2f2cc026fd071387ef8182f9efad5cfd23941e5dafd45c74ba4a8f",
+          "seller": "테이크홉#7552",
+          "indexed": "2026-04-17T04:35:59Z",
+          "age_minutes": 46,
+          "price": {
+            "type": "~b/o",
+            "amount": 22,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Cryptic Leggings",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "e80f5f4e1966e5b732434ff0ce263df0081cc09f2ca6e2b0082f026fc80f9075",
+          "seller": "Conif#2444",
+          "indexed": "2026-04-17T02:01:02Z",
+          "age_minutes": 201,
+          "price": {
+            "type": "~b/o",
+            "amount": 23,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Cryptic Leggings",
+            "name": ""
+          }
+        },
+        {
           "listing_id": "4e62ab392f72b066e4235efb4551da14fb7f4611d7f5f7ff2bfc91d41ab4fe58",
           "seller": "long191120#7960",
           "indexed": "2026-04-17T00:41:00Z",
-          "age_minutes": 41,
+          "age_minutes": 281,
           "price": {
             "type": "~b/o",
             "amount": 24,
@@ -19436,42 +21092,10 @@
           }
         },
         {
-          "listing_id": "f42b173c4e997e037fcf47be1f58bb4a3498bf29f276507a7999620433cbab17",
+          "listing_id": "a9480b1451ad0bece33fdb7c3f2c789c8ad3cd5ef029580d6075fbbe188117f3",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-14T13:54:22Z",
-          "age_minutes": 3568,
-          "price": {
-            "type": "~b/o",
-            "amount": 25,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Cryptic Leggings",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "06800783203ddb35dd43600c4945b54481829315ffd308060ea21def53c4a4ea",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-14T17:15:18Z",
-          "age_minutes": 3367,
-          "price": {
-            "type": "~b/o",
-            "amount": 25,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Cryptic Leggings",
-            "name": ""
-          }
-        },
-        {
-          "listing_id": "ed43cffac94148d0241b1a30d6fb8c995124704e97a7cc37e17ab3314a56ffde",
-          "seller": "Longmirdrop#5046",
-          "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 540,
+          "age_minutes": 3808,
           "price": {
             "type": "~b/o",
             "amount": 25,
@@ -19487,7 +21111,7 @@
           "listing_id": "5c0ed1193f8b5b4409d70c67809df3afcac466a231e65131b86e5404190ac198",
           "seller": "Longmirdrop#5046",
           "indexed": "2026-04-16T16:22:22Z",
-          "age_minutes": 540,
+          "age_minutes": 780,
           "price": {
             "type": "~b/o",
             "amount": 25,
@@ -19501,13 +21125,13 @@
         }
       ],
       "raw_listing": {
-        "id": "4e62ab392f72b066e4235efb4551da14fb7f4611d7f5f7ff2bfc91d41ab4fe58",
-        "account": "long191120#7960",
+        "id": "850a75a39e2f2cc026fd071387ef8182f9efad5cfd23941e5dafd45c74ba4a8f",
+        "account": "테이크홉#7552",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T00:41:00Z",
+        "indexed": "2026-04-17T04:35:59Z",
         "price": {
           "type": "~b/o",
-          "amount": 24,
+          "amount": 22,
           "currency": "divine"
         },
         "item": {
@@ -19523,13 +21147,13 @@
       "notes": "",
       "url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
       "status": "ok",
-      "fetched_at": "2026-04-17T01:23:41.077Z",
-      "price_text": "~b/o 24 divine",
-      "seller": "Byleth#3989",
+      "fetched_at": "2026-04-17T05:23:48.160Z",
+      "price_text": "~b/o 25 divine",
+      "seller": "AriHaru5555#3008",
       "listing_url": "https://www.pathofexile.com/trade2/search/poe2/Fate%20of%20the%20Vaal/yYE8LoqgiR",
       "error": "",
       "result_count": 64,
-      "sell_speed": "medium",
+      "sell_speed": "slow",
       "snapshot_dates": [
         "2026-04-15T09:13:14.720Z",
         "2026-04-15T13:23:13.233Z",
@@ -19541,13 +21165,14 @@
         "2026-04-16T13:23:38.089Z",
         "2026-04-16T17:23:38.505Z",
         "2026-04-16T21:23:39.964Z",
-        "2026-04-17T01:23:41.077Z"
+        "2026-04-17T01:23:41.077Z",
+        "2026-04-17T05:23:48.160Z"
       ],
       "history_used": {
-        "latest_previous": "2026-04-16T21:23:39.964Z",
-        "anchor_6h": "2026-04-16T21:23:39.964Z",
-        "anchor_12h": "2026-04-16T13:23:38.089Z",
-        "anchor_24h": "2026-04-16T01:23:27.499Z",
+        "latest_previous": "2026-04-17T01:23:41.077Z",
+        "anchor_6h": "2026-04-17T01:23:41.077Z",
+        "anchor_12h": "2026-04-16T17:23:38.505Z",
+        "anchor_24h": "2026-04-16T05:23:33.333Z",
         "anchor_48h": "2026-04-15T09:13:14.720Z"
       },
       "history": [
@@ -20529,30 +22154,103 @@
               }
             }
           ]
+        },
+        {
+          "fetched_at": "2026-04-17T05:23:48.160Z",
+          "result_count": 64,
+          "price_text": "~b/o 25 divine",
+          "seller": "AriHaru5555#3008",
+          "sell_speed": "slow",
+          "top_listings": [
+            {
+              "listing_id": "ff561be9fb3cc728d0c3b856568053d0136f2fa062a9b4f9f8750d6d9532f6b8",
+              "seller": "AriHaru5555#3008",
+              "indexed": "2026-04-17T00:54:57Z",
+              "age_minutes": 269,
+              "price": {
+                "type": "~b/o",
+                "amount": 25,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Imperial Greathelm",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "2de81643f3ad999f9d69fec8d287055cab7186a8976e45c68b1f0b3ea06be698",
+              "seller": "AriHaru5555#3008",
+              "indexed": "2026-04-17T00:54:57Z",
+              "age_minutes": 269,
+              "price": {
+                "type": "~b/o",
+                "amount": 25,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Imperial Greathelm",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "6e777eb196fc485aeff45989b64d192358130795795a8507316274bd08e79487",
+              "seller": "nowakowskimichalpoe#5221",
+              "indexed": "2026-04-16T18:33:22Z",
+              "age_minutes": 650,
+              "price": {
+                "type": "~b/o",
+                "amount": 26,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Imperial Greathelm",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "b9c697612593840cc0aba8f351dc1f66383640fb05d052c5857cb643f25e2145",
+              "seller": "보호한다#8183",
+              "indexed": "2026-04-16T14:00:21Z",
+              "age_minutes": 923,
+              "price": {
+                "type": "~b/o",
+                "amount": 27,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Imperial Greathelm",
+                "name": ""
+              }
+            },
+            {
+              "listing_id": "dfce7c47eb16dce342fe7eab973c84d5ce97ddfb16041e70744ab0d4ba789a56",
+              "seller": "보호한다#8183",
+              "indexed": "2026-04-16T14:00:21Z",
+              "age_minutes": 923,
+              "price": {
+                "type": "~b/o",
+                "amount": 27,
+                "currency": "divine"
+              },
+              "item": {
+                "ilvl": 82,
+                "typeLine": "Exceptional Imperial Greathelm",
+                "name": ""
+              }
+            }
+          ]
         }
       ],
       "top_listings": [
         {
-          "listing_id": "38b19ef14c15fcb18f0ad8202d54b2e216ca012b69c58656e20ce2a38956a12d",
-          "seller": "Byleth#3989",
-          "indexed": "2026-04-17T01:07:27Z",
-          "age_minutes": 16,
-          "price": {
-            "type": "~b/o",
-            "amount": 24,
-            "currency": "divine"
-          },
-          "item": {
-            "ilvl": 82,
-            "typeLine": "Exceptional Imperial Greathelm",
-            "name": ""
-          }
-        },
-        {
           "listing_id": "ff561be9fb3cc728d0c3b856568053d0136f2fa062a9b4f9f8750d6d9532f6b8",
           "seller": "AriHaru5555#3008",
           "indexed": "2026-04-17T00:54:57Z",
-          "age_minutes": 29,
+          "age_minutes": 269,
           "price": {
             "type": "~b/o",
             "amount": 25,
@@ -20568,7 +22266,7 @@
           "listing_id": "2de81643f3ad999f9d69fec8d287055cab7186a8976e45c68b1f0b3ea06be698",
           "seller": "AriHaru5555#3008",
           "indexed": "2026-04-17T00:54:57Z",
-          "age_minutes": 29,
+          "age_minutes": 269,
           "price": {
             "type": "~b/o",
             "amount": 25,
@@ -20584,7 +22282,7 @@
           "listing_id": "6e777eb196fc485aeff45989b64d192358130795795a8507316274bd08e79487",
           "seller": "nowakowskimichalpoe#5221",
           "indexed": "2026-04-16T18:33:22Z",
-          "age_minutes": 410,
+          "age_minutes": 650,
           "price": {
             "type": "~b/o",
             "amount": 26,
@@ -20600,7 +22298,23 @@
           "listing_id": "b9c697612593840cc0aba8f351dc1f66383640fb05d052c5857cb643f25e2145",
           "seller": "보호한다#8183",
           "indexed": "2026-04-16T14:00:21Z",
-          "age_minutes": 683,
+          "age_minutes": 923,
+          "price": {
+            "type": "~b/o",
+            "amount": 27,
+            "currency": "divine"
+          },
+          "item": {
+            "ilvl": 82,
+            "typeLine": "Exceptional Imperial Greathelm",
+            "name": ""
+          }
+        },
+        {
+          "listing_id": "dfce7c47eb16dce342fe7eab973c84d5ce97ddfb16041e70744ab0d4ba789a56",
+          "seller": "보호한다#8183",
+          "indexed": "2026-04-16T14:00:21Z",
+          "age_minutes": 923,
           "price": {
             "type": "~b/o",
             "amount": 27,
@@ -20614,13 +22328,13 @@
         }
       ],
       "raw_listing": {
-        "id": "38b19ef14c15fcb18f0ad8202d54b2e216ca012b69c58656e20ce2a38956a12d",
-        "account": "Byleth#3989",
+        "id": "ff561be9fb3cc728d0c3b856568053d0136f2fa062a9b4f9f8750d6d9532f6b8",
+        "account": "AriHaru5555#3008",
         "lastCharacterName": "",
-        "indexed": "2026-04-17T01:07:27Z",
+        "indexed": "2026-04-17T00:54:57Z",
         "price": {
           "type": "~b/o",
-          "amount": 24,
+          "amount": 25,
           "currency": "divine"
         },
         "item": {
